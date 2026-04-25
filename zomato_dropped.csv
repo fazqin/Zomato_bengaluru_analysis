@@ -1,0 +1,1036 @@
+name,online_order,book_table,rate,votes,location,rest_type,dish_liked,cuisines,approx_cost(for two people),listed_in(type)
+Jalsa,Yes,Yes,4.1/5,775,Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,Buffet
+Spice Elephant,Yes,No,4.1/5,787,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,Buffet
+San Churro Cafe,Yes,No,3.8/5,918,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Buffet
+Addhuri Udupi Bhojana,No,No,3.7/5,88,Banashankari,Quick Bites,Masala Dosa,"South Indian, North Indian",300,Buffet
+Grand Village,No,No,3.8/5,166,Basavanagudi,Casual Dining,"Panipuri, Gol Gappe","North Indian, Rajasthani",600,Buffet
+Timepass Dinner,Yes,No,3.8/5,286,Basavanagudi,Casual Dining,"Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice",North Indian,600,Buffet
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6/5,8,Mysore Road,Casual Dining,,"North Indian, South Indian, Andhra, Chinese",800,Buffet
+Onesta,Yes,Yes,4.6/5,2556,Banashankari,"Casual Dining, Cafe","Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza","Pizza, Cafe, Italian",600,Cafes
+Penthouse Cafe,Yes,No,4.0/5,324,Banashankari,Cafe,"Pizza, Mocktails, Coffee, Nachos, Salad, Pasta, Sandwiches","Cafe, Italian, Continental",700,Cafes
+Smacznego,Yes,No,4.2/5,504,Banashankari,Cafe,"Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos","Cafe, Mexican, Italian, Momos, Beverages",550,Cafes
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,4.1/5,402,Banashankari,Cafe,"Waffles, Pasta, Crispy Chicken, Honey Chilli Chicken, Sandwich, Coffee, Crepe",Cafe,500,Cafes
+Cafe Shuffle,Yes,Yes,4.2/5,150,Banashankari,Cafe,"Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos","Cafe, Italian, Continental",600,Cafes
+The Coffee Shack,Yes,Yes,4.2/5,164,Banashankari,Cafe,"Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread","Cafe, Chinese, Continental, Italian",500,Cafes
+Caf-Eleven,No,No,4.0/5,424,Banashankari,Cafe,"Sandwich, Omelette, Ice Tea, Virgin Mojito, Hot Chocolate, Pasta Arrabiata, Hazelnut Cappuccino","Cafe, Continental",450,Cafes
+San Churro Cafe,Yes,No,3.8/5,918,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Cafes
+Cafe Vivacity,Yes,No,3.8/5,90,Banashankari,Cafe,"Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges",Cafe,650,Cafes
+Catch-up-ino,Yes,No,3.9/5,133,Banashankari,Cafe,"Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi","Cafe, Fast Food, Continental, Chinese, Momos",800,Cafes
+Kirthi's Biryani,Yes,No,3.8/5,144,Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Cafes
+T3H Cafe,No,No,3.9/5,93,Banashankari,Cafe,"Cheese Maggi, Peri Peri Fries, Pasta Arrabiata","Cafe, Italian, American",300,Cafes
+360 Atoms Restaurant And Cafe,Yes,No,3.1/5,13,Banashankari,Cafe,,"Cafe, Chinese, Continental, Italian",400,Cafes
+The Vintage Cafe,Yes,No,3.0/5,62,Banashankari,Cafe,"Burgers, Caramel Milkshake, Iced Coffee, Iced Tea","Cafe, French, North Indian",400,Cafes
+Woodee Pizza,Yes,No,3.7/5,180,Banashankari,Cafe,"Pizza, Garlic Bread","Cafe, Pizza, Fast Food, Beverages",500,Cafes
+Cafe Coffee Day,No,No,3.6/5,28,Banashankari,Cafe,,"Cafe, Fast Food",900,Cafes
+My Tea House,Yes,No,3.6/5,62,Banashankari,"Quick Bites, Cafe","Pasta, Iced Tea","Italian, Fast Food, Cafe, European",600,Cafes
+Hide Out Cafe,No,No,3.7/5,31,Banashankari,Cafe,,Cafe,300,Cafes
+CAFE NOVA,No,No,3.2/5,11,Banashankari,Cafe,,"Cafe, Bakery",600,Cafes
+Coffee Tindi,Yes,No,3.8/5,75,Banashankari,"Cafe, Quick Bites",,"Cafe, South Indian",200,Cafes
+Sea Green Cafe,No,No,3.3/5,4,Banashankari,Cafe,,"Cafe, Fast Food, Beverages",500,Cafes
+Cuppa,No,No,3.3/5,23,Banashankari,Cafe,,"Cafe, Fast Food",550,Cafes
+Srinathji's Cafe,No,No,3.8/5,148,Basavanagudi,"Casual Dining, Cafe","Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda","North Indian, Cafe, Chinese, Fast Food",550,Cafes
+Redberrys,Yes,No,4.0/5,219,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Cafes
+Foodiction,Yes,No,2.8/5,506,Banashankari,Quick Bites,"Burgers, Lassi, Chicken Grill, Naan, Momos, Chicken Burger, Biryani","North Indian, Fast Food, Chinese, Burger",500,Delivery
+Sweet Truth,Yes,No,3.9/5,35,Banashankari,Delivery,,"Bakery, Desserts",500,Delivery
+Ovenstory Pizza,Yes,No,3.9/5,172,Banashankari,Delivery,"Paneer Tikka, Garlic Bread, Thin Crust Pizza, Falafel, Veggie Pizza",Pizza,750,Delivery
+Faasos,Yes,No,4.2/5,415,Banashankari,Quick Bites,"Rolls, Veggie Wrap, Chocolate Fantasy, Rice Bowls, Chicken Rice, Paneer Makhanwala, Chicken Tikka Wrap","North Indian, Biryani, Fast Food",500,Delivery
+Behrouz Biryani,Yes,No,3.9/5,230,Banashankari,Delivery,"Raita, Gulab Jamun, Paneer Biryani, Vegetable Biryani, Gosht Dum Biryani, Chicken Biryani, Murgh Biryani",Biryani,650,Delivery
+Fast And Fresh,Yes,No,2.8/5,91,Banashankari,Quick Bites,,"North Indian, Chinese, Fast Food",400,Delivery
+Szechuan Dragon,Yes,No,4.2/5,1647,Banashankari,Casual Dining,"Noodles, Momos, Veg Manchow Soup, Kung Pao Chicken, Chicken Lollipop, Chop Suey, Dragon Chicken","Chinese, Thai, Momos",600,Delivery
+Empire Restaurant,Yes,No,4.4/5,4884,Jayanagar,Casual Dining,"Chicken Tikka Masala, Mutton Keema Dosa, Mutton Biryani, Raan Biryani, Brain Fry, Chicken Grill, Ghee Rice","North Indian, Mughlai, South Indian, Chinese",750,Delivery
+Maruthi Davangere Benne Dosa,Yes,No,4.0/5,17,Banashankari,Quick Bites,,South Indian,150,Delivery
+Chaatimes,Yes,No,3.8/5,133,Basavanagudi,Quick Bites,"Dabeli, Faluda, Masala Poori, Sandwiches, Tokri Chaat, Pav Bhaji, Dahipuri","Street Food, Fast Food",200,Delivery
+Havyaka Mess,No,No,3.9/5,28,Banashankari,Mess,,South Indian,300,Delivery
+McDonald's,Yes,No,3.9/5,286,Banashankari,Quick Bites,"Burgers, Fries, Hot Chocolate","Burger, Fast Food",500,Delivery
+Domino's Pizza,Yes,No,3.9/5,540,Banashankari,Quick Bites,"Pane Pizza, Lava Cake, Pasta, Stuffed Garlic Bread, Chocolava Cake, Tacos","Pizza, Fast Food",800,Delivery
+Onesta,Yes,Yes,4.6/5,2556,Banashankari,"Casual Dining, Cafe","Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza","Pizza, Cafe, Italian",600,Delivery
+Hotboxit,No,No,3.8/5,36,Banashankari,Delivery,Prompt Service,"North Indian, Continental, Italian",400,Delivery
+Kitchen Garden,Yes,No,3.6/5,244,Kumaraswamy Layout,Quick Bites,Biryani,"North Indian, Chinese",300,Delivery
+Recipe,Yes,No,4.0/5,804,Kumaraswamy Layout,Casual Dining,"Butter Chicken, Noodles, Thali, Biryani","North Indian, Chinese, Biryani, Rolls",450,Delivery
+Beijing Bites,Yes,No,3.7/5,679,Rajarajeshwari Nagar,Casual Dining,"Momos, Dragon Chicken, Hakka Noodles, Chowmein, Chop Suey, Chilli Garlic Noodles, Garlic Rice","Chinese, Thai",850,Delivery
+Tasty Bytes,Yes,No,3.1/5,245,Kumaraswamy Layout,Quick Bites,"Paratha, Pasta","North Indian, Chinese, Momos, Rolls",300,Delivery
+Petoo,No,No,3.7/5,21,Banashankari,Quick Bites,,North Indian,450,Delivery
+Shree Cool Point,Yes,No,4.1/5,28,Vijay Nagar,Quick Bites,,"Fast Food, Street Food, Beverages",150,Delivery
+Corner House Ice Cream,No,No,4.3/5,345,Banashankari,Dessert Parlor,"Hot Chocolate Fudge, Vanilla Ice Cream, Fudge Cake, Chocolate Mousse","Ice Cream, Desserts",400,Delivery
+Biryanis And More,Yes,No,4.0/5,618,Jayanagar,Casual Dining,"Prawn Biryani, Dragon Chicken, Chicken Boneless Biryani, Afghani Biryani, Mughlai Biryani, Paneer Tikka Biryani, Gongura Biryani","Biryani, North Indian, Chinese, Andhra, South Indian",750,Delivery
+Roving Feast,No,No,4.0/5,1047,Banashankari,Quick Bites,"Pasta, Momos, Rolls, Chicken Roll, Chilli Chicken, Paneer Roll, Spaghetti","Italian, Continental, Fast Food, Chinese, Momos",450,Delivery
+FreshMenu,Yes,No,3.9/5,627,Banashankari,Delivery,"Salads, Sandwiches, Salad, Thai Rice, Pasta, Noodles, Pizza","Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",450,Delivery
+Banashankari Donne Biriyani,Yes,No,3.8/5,104,Banashankari,Quick Bites,,"Biryani, Fast Food",300,Delivery
+Wamama,Yes,Yes,4.2/5,354,Banashankari,Casual Dining,"Sushi, Noodles, Wine, Khau Suey, Mocktails, Yakisoba, Spring Roll","Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",800,Delivery
+Five Star Chicken,No,No,3.6/5,55,Banashankari,Quick Bites,,"Fast Food, Burger",200,Delivery
+XO Belgian Waffle,Yes,No,3.7/5,17,Banashankari,Dessert Parlor,,"Desserts, Beverages",400,Delivery
+Peppy Peppers,No,No,4.2/5,244,Banashankari,Casual Dining,"Pasta, Pepper Pizza, Paneer Pizza, Peppy Paneer, Nachos, Supreme Pizza, Manchow Soup","Italian, North Indian, Mexican",800,Delivery
+Goa 0 Km,Yes,Yes,3.6/5,163,Kumaraswamy Layout,Casual Dining,"Sea Food, Crab Meat, Crab Soup, Fish Curry, Chicken Cafreal, Butter Naan, Butter Chicken","Goan, Seafood, North Indian, Chinese, Biryani",800,Delivery
+Chinese Kitchen,Yes,No,3.8/5,58,Basavanagudi,Quick Bites,,Chinese,150,Delivery
+1947,No,Yes,4.0/5,808,Banashankari,Casual Dining,"Salads, Panneer Butter Masala, Rabri, Gajar Ka Halwa, Manchow Soup, Aam Panna, Tomato Basil Soup","North Indian, Chinese",850,Delivery
+Cake of the Day,No,No,3.7/5,78,Banashankari,"Bakery, Dessert Parlor",,Bakery,150,Delivery
+Kabab Magic,Yes,No,4.1/5,1720,Basavanagudi,Quick Bites,"Grape Juice, Chicken Grill, Chicken Tikka Roll, Shawarma Roll, Chicken Shawarama, Biryani Combo, Rolls","North Indian, Kebab, Chinese, Fast Food",400,Delivery
+Namma Brahmin's Idli,Yes,No,3.6/5,34,Jayanagar,Quick Bites,,South Indian,100,Delivery
+Gustoes Beer House,No,No,4.1/5,868,Banashankari,Pub,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings","Continental, Italian, Mexican, North Indian, Chinese, Steak","1,200",Delivery
+Sugar Rush,No,No,3.8/5,39,Banashankari,Bakery,,"Bakery, Desserts",300,Delivery
+Burger King,Yes,No,3.2/5,71,Basavanagudi,Quick Bites,,"Burger, Fast Food, Beverages",600,Delivery
+The Good Bowl,Yes,No,3.6/5,6,Banashankari,"Takeaway, Delivery",,"Italian, North Indian, Biryani",500,Delivery
+The Biryani Cafe,No,No,4.1/5,520,Banashankari,Quick Bites,"Vegetable Biryani, Ginger Chicken, Chicken Biryani, Donne Biryani, Chicken Kebab, Egg Bhurji, Dum Biryani","Biryani, Chinese, Kebab",300,Delivery
+Spicy Tandoor,No,No,NEW,0,Banashankari,Quick Bites,,North Indian,150,Delivery
+LSD Cafe,No,No,2.9/5,84,Banashankari,Delivery,,"Chinese, Continental, Italian, North Indian",700,Delivery
+Rolls On Wheels,No,No,3.6/5,299,Banashankari,Quick Bites,"Rolls, Momos, Fries, Veggie Roll, Chicken Kebab Roll, Paneer Roll, Cheese Roll","Fast Food, Rolls, Momos",300,Delivery
+Om Sri Vinayaka Chats,No,No,NEW,0,Banashankari,"Takeaway, Delivery",,"Street Food, Fast Food",500,Delivery
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1/5,558,Basavanagudi,Quick Bites,"Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa",South Indian,150,Delivery
+Devanna Dum Biriyani Centre,Yes,No,3.6/5,28,Banashankari,Quick Bites,,"Biryani, South Indian",300,Delivery
+Kolbeh,No,No,3.7/5,22,Banashankari,Quick Bites,,Fast Food,500,Delivery
+Upahar Sagar,No,No,3.8/5,39,Banashankari,Quick Bites,Masala Dosa,"South Indian, Chinese, North Indian",350,Delivery
+Kadalu Sea Food Restaurant,Yes,No,3.8/5,153,Vijay Nagar,Fine Dining,,"Seafood, North Indian, Chinese, Andhra, Biryani, Kebab",500,Delivery
+Frozen Bottle,Yes,No,4.2/5,146,Banashankari,Beverage Shop,"Berryblast, Waffles, Cheesecake, Salted Caramel","Beverages, Desserts, Ice Cream",400,Delivery
+Parimala Sweets,No,No,3.5/5,14,Banashankari,Sweet Shop,,"Mithai, Street Food",200,Delivery
+Vaishali Deluxe,No,No,3.8/5,42,Banashankari,Casual Dining,,"North Indian, Chinese",700,Delivery
+Chill Out,No,No,,0,Banashankari,Quick Bites,,"South Indian, Chinese",100,Delivery
+The Big O Bakes,No,No,4.0/5,66,Banashankari,Bakery,,"Bakery, Desserts",300,Delivery
+Meghana Foods,Yes,No,4.4/5,4401,Jayanagar,Casual Dining,"Chicken Boneless Biryani, Hyderabadi Biryani, Paneer Biryani, Tandoori Chicken, Vegetable Biryani, Chicken Kebab, Raita","Biryani, North Indian, Chinese",600,Delivery
+Krishna Sagar,No,No,3.5/5,31,Banashankari,Quick Bites,,North Indian,200,Delivery
+Dessert Rose,No,No,3.5/5,7,Banashankari,Dessert Parlor,,Desserts,500,Delivery
+Chickpet Donne Biryani House,No,No,3.7/5,21,Banashankari,Quick Bites,,Biryani,250,Delivery
+Me And My Cake,No,No,,0,Banashankari,Delivery,,"Bakery, Desserts",500,Delivery
+Sunsadm,No,No,,0,Banashankari,"Takeaway, Delivery",,South Indian,400,Delivery
+Annapooraneshwari Mess,No,No,,0,Banashankari,Mess,,South Indian,200,Delivery
+Thanco's Natural Ice Creams,No,No,3.2/5,9,Banashankari,Dessert Parlor,,Ice Cream,300,Delivery
+Nandhini Deluxe,No,No,2.6/5,283,Banashankari,Casual Dining,"Biryani, Chicken Guntur, Thali, Buttermilk, Manchurian",North Indian,600,Delivery
+Vi Ra's Bar and Restaurant,No,No,3.3/5,62,Banashankari,Bar,Chilli Chicken,"South Indian, North Indian, Chinese",800,Delivery
+Kaggis,No,No,3.8/5,64,Banashankari,Quick Bites,,"Fast Food, Bakery",250,Delivery
+Ayda Persian Kitchen,No,No,3.7/5,39,Banashankari,Casual Dining,,"North Indian, Iranian",950,Delivery
+Chatar Patar,No,No,3.7/5,65,Banashankari,Quick Bites,"Panipuri, Chaat, Noodles, Dahi Bhalle","Fast Food, Street Food",300,Delivery
+Polar Bear,Yes,No,3.8/5,71,Basavanagudi,Dessert Parlor,Hot Chocolate Fudge,"Ice Cream, Desserts, Beverages, Sandwich",400,Delivery
+Kidambi's Kitchen,No,No,3.5/5,52,Banashankari,Quick Bites,Rooftop Ambience,South Indian,300,Delivery
+Mane Thindi,No,No,3.7/5,130,Banashankari,Quick Bites,"Coffee, Tea, Kesari Bath, Open Dosa, Vada, Idli, Bread Dosa",South Indian,200,Delivery
+Kotian Karavali Restaurant,No,No,3.5/5,10,Banashankari,Quick Bites,,"South Indian, Biryani",300,Delivery
+Floured-Baked With Love,No,No,3.8 /5,45,Banashankari,"Takeaway, Delivery","Cup Cake, Chocolate Cake",Bakery,400,Delivery
+CAFE NOVA,No,No,3.2/5,11,Banashankari,Cafe,,"Cafe, Bakery",600,Delivery
+Cakes & Slices,No,No,3.5/5,13,Banashankari,Bakery,,"Bakery, Desserts",300,Delivery
+Spice 9,No,No,3.4/5,8,Banashankari,Quick Bites,,"Biryani, North Indian, Chinese, Fast Food",300,Delivery
+Coffee Shopee,No,No,,0,Banashankari,"Takeaway, Delivery",,Beverages,250,Delivery
+Naveen Kabab & Biriyani Mane,No,No,3.2/5,9,Banashankari,Quick Bites,,Biryani,300,Delivery
+Katriguppe Donne Biryani,No,No,3.2/5,4,Banashankari,Quick Bites,,North Indian,300,Delivery
+Hari Super Sandwich,No,No,NEW,0,Banashankari,"Takeaway, Delivery",,"Sandwich, Pizza, Beverages",200,Delivery
+Atithi Point Ande Ka Funda,No,No,3.1/5,29,Banashankari,Quick Bites,,North Indian,150,Delivery
+Just Bake,No,No,3.4/5,8,Banashankari,Bakery,,"Bakery, Desserts",400,Delivery
+Dharwad Line Bazaar Mishra Pedha,No,No,,0,Banashankari,Dessert Parlor,,Mithai,150,Delivery
+Cake Bite,No,No,,0,Banashankari,Bakery,,Bakery,300,Delivery
+Aarush's Food Plaza,No,No,,0,Banashankari,Quick Bites,,"North Indian, Street Food",200,Delivery
+Wood Stove,No,No,,0,Banashankari,"Takeaway, Delivery",,South Indian,150,Delivery
+Kulfi & More,No,No,,0,Banashankari,Dessert Parlor,,"Ice Cream, Desserts, Juices",150,Delivery
+Kannadigas Karavali,No,No,,0,Banashankari,Quick Bites,,"Mangalorean, South Indian, North Indian",250,Delivery
+K27 - The Pub,No,No,3.1/5,30,Banashankari,Bar,,"Chinese, North Indian","1,000",Delivery
+Bengaluru Coffee House,Yes,No,4.1/5,201,Banashankari,Quick Bites,"Masala Dosa, Tirupathi Pongal, Filter Coffee, Vada, Kharabath, Kali Dosa, Rava Idli","South Indian, North Indian, Chinese, Street Food",300,Delivery
+New Mangalore Lunch Home,No,No,3.3/5,7,Banashankari,Quick Bites,,"Mangalorean, South Indian, North Indian",200,Delivery
+Coffee Bytes,No,No,3.1/5,6,Banashankari,Quick Bites,,"Fast Food, South Indian",100,Delivery
+Parjanya Chat Zone,No,No,3.3/5,17,Banashankari,Quick Bites,,"Street Food, Fast Food",200,Delivery
+Kwality Wall's Swirl's Happiness Station,No,No,2.9/5,25,Banashankari,Dessert Parlor,,"Ice Cream, Desserts",200,Delivery
+Soms Kitchen & Bakes,No,No,,0,Banashankari,Delivery,,"South Indian, North Indian, Continental",400,Delivery
+Banashankari Nati Style,No,No,,0,Banashankari,Quick Bites,,"Biryani, Chinese, South Indian, North Indian",350,Delivery
+Ruchi Maayaka,No,No,3.3/5,8,Banashankari,Delivery,,South Indian,100,Delivery
+Mohitesh Hut Roll,No,No,,0,Banashankari,Quick Bites,,"Rolls, North Indian",150,Delivery
+Sri Basaveshwar Jolada Rotti Oota,No,No,,0,Banashankari,Quick Bites,,South Indian,150,Delivery
+Roll Magic Fast Food,No,No,NEW,0,Banashankari,"Takeaway, Delivery",,"Biryani, Rolls, Chinese",200,Delivery
+Foodlieious Multi Cuisine,No,No,NEW,0,Banashankari,Quick Bites,,North Indian,100,Delivery
+Thanishka Nati And Karavali Style,No,No,NEW,0,Banashankari,Quick Bites,,"Biryani, Fast Food",400,Delivery
+Swathi Cool Point,No,No,,0,Banashankari,Beverage Shop,,"Beverages, Juices",200,Delivery
+Kaumudis Juoice,No,No,,0,Banashankari,"Beverage Shop, Quick Bites",,"Beverages, Fast Food, Juices",150,Delivery
+Amma - Manae,No,No,,0,Banashankari,"Takeaway, Delivery",,South Indian,400,Delivery
+Sri Sai Tiffannies,No,No,,0,Banashankari,Quick Bites,,"South Indian, Chinese",150,Delivery
+Hotel Andhra Speices,No,No,,0,Banashankari,Quick Bites,,Andhra,250,Delivery
+Sri Murari Family Restaurant,No,No,,0,Banashankari,Quick Bites,,Biryani,250,Delivery
+Aramane Donne Biriyani,No,No,,0,Banashankari,Quick Bites,,"South Indian, Biryani",150,Delivery
+Darkolates,No,No,,0,Banashankari,Confectionery,,Desserts,200,Delivery
+Swaada Healthy Kitchen,No,No,,0,Banashankari,"Quick Bites, Beverage Shop",,"Healthy Food, Juices, Sandwich",350,Delivery
+Gawdaru Mane Beriyani,No,No,,0,Banashankari,Quick Bites,,"South Indian, Biryani",300,Delivery
+Melting Melodies,No,No,NEW,0,Banashankari,"Takeaway, Delivery",,"Pizza, Fast Food",100,Delivery
+New Indraprasta,No,No,NEW,0,Banashankari,Quick Bites,,"South Indian, Beverages",150,Delivery
+Anna Kuteera,Yes,No,4.0/5,771,Banashankari,Casual Dining,"Panner Tikka, Kulfi, Coffee, Pav Bhaji, Carrot Halwa, Fried Rice, Set Dosa","South Indian, North Indian, Chinese",450,Delivery
+Darbar,No,No,3.0/5,98,Banashankari,Bar,"Paneer Tikka, Dal Kichadi, French Fries","North Indian, Chinese",800,Delivery
+Vijayalakshmi,Yes,No,3.9/5,47,Basavanagudi,Quick Bites,,South Indian,200,Delivery
+Sri Udupi Food Hub,Yes,Yes,4.1/5,175,Jayanagar,Casual Dining,"Filter Coffee, Masala Dosa, Idli, Vada","South Indian, North Indian, Chinese, Beverages",500,Delivery
+Udupi Upahar,Yes,No,3.8/5,58,Banashankari,Quick Bites,,"South Indian, Chinese, North Indian, Juices",300,Delivery
+House Of Kebabs,Yes,No,3.8/5,540,Basavanagudi,Casual Dining,"Rolls, Shawarma, Butter Chicken, Mutton Biryani, Lahori Chicken, Chicken Roll, Grape Juice","North Indian, Kebab, Biryani, Chinese",650,Delivery
+Roll N Rock,Yes,No,3.8/5,124,Kumaraswamy Layout,Quick Bites,"Rolls, Paratha, Chicken Biryani","Chinese, North Indian, Mughlai, Rolls",400,Delivery
+BOX8- Desi Meals,Yes,No,4.1/5,340,Banashankari,"Takeaway, Delivery","Paratha, Mughlai Chicken, Masala Lemonade, Butter Chicken, Rajma, Sandwich, Salad","North Indian, Mughlai, Fast Food",500,Delivery
+KFC,Yes,No,3.8/5,505,Banashankari,Quick Bites,"Burgers, French Fries","Burger, Fast Food",450,Delivery
+Bitez,No,No,NEW,0,Banashankari,Quick Bites,,Fast Food,100,Delivery
+Roll Over,Yes,No,4.1/5,438,Jayanagar,Dessert Parlor,"Rolls, Ice Cream Roll, Paan Ice Cream, Coffee, Vanilla Ice Cream, Chocolate Icecreams, Mississippi Mudpie","Desserts, Ice Cream, Beverages, Fast Food, Sandwich",500,Delivery
+Imperial Restaurant,Yes,No,3.7/5,264,Mysore Road,Casual Dining,"Kadhai Paneer, Ghee Rice, Chicken Grill, Shawarma, Paratha, Biryani, Butter Chicken","North Indian, Chinese, Biryani, Beverages",750,Delivery
+Lassi Shop,Yes,No,3.9/5,169,Kumaraswamy Layout,Beverage Shop,,"Beverages, Juices, Ice Cream",150,Delivery
+The Fortuna,Yes,No,3.0/5,67,Kumaraswamy Layout,Quick Bites,,"North Indian, Chinese",250,Delivery
+Wahab,Yes,No,3.7/5,97,Jayanagar,Quick Bites,"Chicken Biryani, Rolls","North Indian, Mughlai, Chinese",350,Delivery
+Al Diwan Biryanis And More,Yes,No,3.3/5,12,Basavanagudi,"Takeaway, Delivery",,Biryani,300,Delivery
+New Gowda's Fried Chicken,Yes,No,3.3/5,12,Banashankari,Quick Bites,,Biryani,300,Delivery
+Canton,Yes,No,3.6/5,195,Jayanagar,Casual Dining,"Roast Pork, Tai Pai Chicken, Beer, Sweet Corn Chicken Soup, Masala Peanuts, Chinese Chop Suey, Chicken Lollipop","Chinese, Seafood, Biryani",800,Delivery
+Diabetics Dezire Sugarless Sweets and Bakes,Yes,No,3.3/5,13,Basavanagudi,"Dessert Parlor, Sweet Shop",,"Desserts, Mithai",300,Delivery
+The Blue Wagon - Kitchen,Yes,No,4.6/5,228,Jayanagar,Cafe,"Pizza, Nachos, Garlic Maggi, Burgers, Cheese Maggi, Bruschetta Bites, Sandwich","Cafe, Beverages",400,Delivery
+HOT COFFEE,Yes,No,4.1/5,70,Basavanagudi,Quick Bites,,"South Indian, Chinese",150,Delivery
+Patio 805,Yes,Yes,4.1/5,364,Jayanagar,Casual Dining,"Noodles, Laksa Soup, Coffee, Veg Fritters, Vegetarian, Babycorn Manchurian, Mango Salad","Thai, Vietnamese, Asian, Chinese","1,200",Delivery
+Lassi Corner,Yes,No,3.7/5,107,Basavanagudi,Beverage Shop,Lassi,"Beverages, Ice Cream",150,Delivery
+Sagar Deluxe,Yes,No,3.2/5,167,Kumaraswamy Layout,Quick Bites,"Coffee, Chaat","South Indian, North Indian, Chinese, Juices",300,Delivery
+Kanti Sweets,Yes,No,4.0/5,115,Banashankari,Sweet Shop,,"Mithai, Street Food",400,Delivery
+Vegetalia,Yes,No,3.7/5,27,Banashankari,"Takeaway, Delivery",,"Italian, Pizza",400,Delivery
+Aramane Donne Biryani,Yes,No,3.5/5,57,Banashankari,Quick Bites,,Biryani,200,Delivery
+Ande Ka Funda,Yes,No,3.8/5,120,Banashankari,Quick Bites,,"North Indian, Fast Food, Rolls",250,Delivery
+Cake Ghar,Yes,No,3.8/5,15,Basavanagudi,Bakery,,Bakery,400,Delivery
+Energy Addaa,Yes,No,4.2/5,64,Basavanagudi,Quick Bites,"Pizza, Nachos, Salads, Peri Peri Fries, Brownie, Pasta Alfredo, Spaghetti","Salad, Healthy Food, Sandwich, Juices, Burger, Desserts, Pizza",500,Delivery
+Bhattara Bhojana,Yes,No,3.6/5,66,Banashankari,Quick Bites,,South Indian,150,Delivery
+Tandoori Knight,Yes,No,3.0/5,290,Banashankari,Quick Bites,"Chicken Grill, Biryani, Roti, Chicken Masala","North Indian, Chinese, Biryani, Kebab",450,Delivery
+Dev Sagar - Food Street,Yes,No,4.1/5,233,Basavanagudi,Quick Bites,"Chaat, Pav Bhaji, Dabeli, Vada Pav, Tawa Pulav, Panipuri, Malpua",Street Food,200,Delivery
+Mitraa Da Pizza,Yes,No,3.8/5,115,Kumaraswamy Layout,Quick Bites,"Pizza, Burgers","Fast Food, Pizza",250,Delivery
+Paradise Premium,Yes,No,3.1/5,119,Banashankari,Casual Dining,,"Biryani, Andhra, Hyderabadi, North Indian",700,Delivery
+Grazers,Yes,Yes,3.9/5,291,Jayanagar,Cafe,"Burgers, Panneer Butter Masala, Pasta, Hot Dog, Fries, Cheesy Pizza, Potato Wedges","Cafe, Burger, Continental, Italian, Desserts",650,Delivery
+Shakes Theory,Yes,No,4.5/5,155,Jayanagar,Beverage Shop,"Sandwiches, Thick Shakes, Paan Shake, Brownie Bomb, Fries, Spinach Corn Sandwich, Paneer Peri Peri","Beverages, Sandwich",300,Delivery
+@Italy,Yes,No,4.1/5,305,Kumaraswamy Layout,Casual Dining,"Pizza, Pasta, Spinach Salsa, Garlic Bread, Lasagne, Bruschettas, Chocolate Bomb",Italian,700,Delivery
+Chilli Flakes,Yes,No,3.6/5,46,Banashankari,Quick Bites,,"Fast Food, Italian, Beverages",500,Delivery
+Calcutta Cafe,Yes,No,3.5/5,45,Kumaraswamy Layout,Quick Bites,,"Bengali, Chinese, Sandwich",350,Delivery
+Old Mumbai Ice Cream,Yes,No,3.9/5,38,Banashankari,Dessert Parlor,Friendly Staff,Ice Cream,150,Delivery
+Donne Biriyani House,Yes,No,3.9/5,441,Banashankari,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Biryani",400,Delivery
+By 2 Coffee,Yes,No,3.9/5,25,Basavanagudi,Quick Bites,,South Indian,100,Delivery
+Kedia's Fun Food,Yes,No,4.3/5,630,Jayanagar,Quick Bites,"Paratha, Vada Pav, Chaat, Pav Bhaji, Panipuri, Masala Poori, Dhokla","North Indian, Street Food, Juices",200,Delivery
+Davangere Butter Dosa Hotel,Yes,No,3.8/5,25,Kumaraswamy Layout,Quick Bites,,South Indian,150,Delivery
+Just Shawarma,Yes,No,3.9/5,160,Kumaraswamy Layout,Quick Bites,"Whole Meat Shawarma, Fries",Arabian,300,Delivery
+Mini Punjabi Dhaba,Yes,No,4.2/5,287,Banashankari,Quick Bites,"Panneer Butter Masala, Lassi, Paratha, Jeera Rice, Paneer Parantha, Bhindi Fry, Veg Kolhapuri",North Indian,350,Delivery
+Mulabagilu Dosa,Yes,No,3.6/5,11,Basavanagudi,Quick Bites,,South Indian,100,Delivery
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,4.1/5,402,Banashankari,Cafe,"Waffles, Pasta, Crispy Chicken, Honey Chilli Chicken, Sandwich, Coffee, Crepe",Cafe,500,Delivery
+Gokul Veg,Yes,No,3.8/5,469,Basavanagudi,Casual Dining,"Masala Papad, Paneer Satay, Vegetable Biryani, Panneer Butter Masala, Tomato Soup, Manchow Soup, Roti","North Indian, Chinese, Beverages",750,Delivery
+Olive - Era,Yes,No,3.3/5,511,Kumaraswamy Layout,Casual Dining,"Shawarma, Biryani, Bbq Chicken, Chicken Grill, Raita","BBQ, Arabian, Rolls, Chinese, North Indian, Juices, Kebab, Desserts",550,Delivery
+Udupi Ruchi,Yes,No,3.9/5,57,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",200,Delivery
+Madhappa Hindu Military Hotel,Yes,No,3.4/5,14,Banashankari,Quick Bites,,South Indian,300,Delivery
+Gama Gama,Yes,No,3.9/5,264,Banashankari,Quick Bites,"Jowar Roti, Buttermilk, Sabudana Vada, Thali, Mirchi Bajji, Brinjal Curry",South Indian,200,Delivery
+The Vintage Cafe,Yes,No,3.0/5,62,Banashankari,Cafe,"Burgers, Caramel Milkshake, Iced Coffee, Iced Tea","Cafe, French, North Indian",400,Delivery
+Pizza Hut,Yes,No,3.8/5,693,Banashankari,Casual Dining,"Supreme Pizza, Potato Wedges, Masala Lemonade, Tandoori Paneer, Exotic Garlic Bread","Pizza, Fast Food",750,Delivery
+Mangalore Pearl,Yes,No,3.8/5,242,Jayanagar,Casual Dining,"Neer Dosa, Sea Food, Ghee Rice, Marwai Sukka, Egg Biryani, Kori Roti, Thai Fish","Mangalorean, Seafood, Chinese, Biryani",650,Delivery
+Asha Sweets Centre,Yes,No,3.6/5,27,Basavanagudi,Dessert Parlor,,Fast Food,250,Delivery
+Twiststick House,Yes,No,4.1/5,163,Basavanagudi,Quick Bites,"White Pasta, Noodles, Babycorn Manchurian, Pizza, Veg Momos, Fry Momos, Tawa Pulav","Continental, Fast Food, Street Food, Momos",500,Delivery
+Cool Corner,Yes,No,4.2/5,191,Basavanagudi,Quick Bites,"Masala Dosa, Sandwiches, Coffee, Onion Dosa, Rava Dosa, Chaat, Sandwich","Street Food, Fast Food",250,Delivery
+Pizza Mane,Yes,No,3.5/5,32,Banashankari,Quick Bites,"French Fries, Burgers","Pizza, Sandwich, Burger, Fast Food",150,Delivery
+Dal Tadkaa,Yes,No,2.5/5,247,Banashankari,Casual Dining,"Paratha, Boondi Raita, Roti, Kulfi, Panneer Butter Masala, Sweet Lassi, Dal Tadka",North Indian,500,Delivery
+Chutney Chang,Yes,Yes,4.1/5,2339,Jayanagar,Casual Dining,"Veg Momos, Brownie Chocolate, Palak Chaat, Mutton Biryani, Dahipuri, Fish, Sea Food","North Indian, Chinese, BBQ","1,500",Delivery
+Mystique Palate,Yes,No,4.1/5,337,Jayanagar,Quick Bites,"Noodles, Pasta, Schezwan Momos, Chicken Momo, Teriyaki Chicken, Thukpa, Fries","Chinese, Fast Food",300,Delivery
+Thamboola,Yes,No,3.9/5,135,Banashankari,Casual Dining,"Spring Roll, Manchow Soup, Babycorn Manchurian, Mint Cooler, Roti, Panneer Butter Masala","North Indian, Chinese, Continental",800,Delivery
+Castle Rock,Yes,No,3.6/5,172,Uttarahalli,Casual Dining,Biryani,"North Indian, Chinese",700,Delivery
+Vietnamese Kitchen,Yes,No,3.6/5,105,Banashankari,Casual Dining,"Pho, Papaya Salad, Coffee, Veg Momos, Rolls",Vietnamese,700,Delivery
+Smacznego,Yes,No,4.2/5,504,Banashankari,Cafe,"Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos","Cafe, Mexican, Italian, Momos, Beverages",550,Delivery
+C Corner,Yes,No,3.2/5,36,Kumaraswamy Layout,Quick Bites,,"Fast Food, Street Food",200,Delivery
+Paratha Merchant,Yes,No,3.1/5,39,Kumaraswamy Layout,Quick Bites,,North Indian,300,Delivery
+North Rasoe,Yes,No,3.1/5,5,Kumaraswamy Layout,Casual Dining,,"North Indian, Chinese, Biryani, Kebab",500,Delivery
+Inchara Restaurant,Yes,No,,0,Basavanagudi,Quick Bites,,"North Indian, Chinese",300,Delivery
+Toscano,Yes,Yes,4.3/5,1129,Jayanagar,Casual Dining,"Pizza, Pasta, Salads, Calamari, Ravioli, Pumpkin Soup, Wine","Italian, Salad","1,300",Delivery
+Lord Of The Kitchen,Yes,No,3.9/5,56,Kumaraswamy Layout,Quick Bites,,"North Indian, Chinese",350,Delivery
+Stoned Monkey,Yes,No,4.3/5,860,Banashankari,Dessert Parlor,"Nachos, Cup Cake, Hot Chocolate Fudge, Salsa, Cheesy Garlic Bread, Waffles, Tiramisu","Desserts, Ice Cream",500,Delivery
+Central Jail Restaurant,Yes,No,3.8/5,412,Jayanagar,Casual Dining,"Lime Soda, Manchow Soup, Biryani, Lemon Chicken, Tomato Soup, Butter Naan, Chilli Chicken","Andhra, Seafood, North Indian, Chinese",700,Delivery
+Bella,Yes,Yes,3.9/5,142,Jayanagar,Casual Dining,"Murgh Ghee Roast, Fish Fry, Ghee Roast Paneer, Neer Dosa, Appam, Sea Food, Chicken Sukha","Mangalorean, Seafood, South Indian","1,000",Delivery
+Vennela Andhra Meals,Yes,No,3.0/5,23,Jayanagar,Quick Bites,,Andhra,400,Delivery
+New Prashanth Hotel,Yes,No,3.6/5,143,Jayanagar,Casual Dining,"Ragi Mudde, Lemon Chicken, Chilli Chicken, Chicken Curry, Mutton Chops, Mutton Biryani","South Indian, Biryani, Chinese, North Indian",750,Delivery
+The Grillo,Yes,Yes,2.8/5,80,Jayanagar,Casual Dining,,"South Indian, Arabian, Chinese, North Indian, Seafood, Mangalorean",500,Delivery
+Re Malnad Nati Style Hotel,Yes,No,3.6/5,16,JP Nagar,Casual Dining,,South Indian,400,Delivery
+Karma Kaapi,Yes,No,4.4/5,181,Jayanagar,Beverage Shop,"Pasta, Potato Fries, Potato Wedges, Hot Chocolate, Chaat, Filter Coffee, Americano","Beverages, Tea",250,Delivery
+Tiwari's,Yes,No,3.8/5,70,Jayanagar,Quick Bites,"Sweet Lassi, Gulab Jamun, Palak Paneer Paratha, Paneer Parantha","North Indian, Street Food",200,Delivery
+Pizza Stop,Yes,No,3.8/5,164,Basavanagudi,Quick Bites,"Pizza, White Sauce Pasta, Masala Garlic Bread","Pizza, Italian",600,Delivery
+Biggies Burger 'n' More,Yes,No,3.6/5,58,Kumaraswamy Layout,Quick Bites,"Burgers, Fries, Mojito, Chicken Burger","Cafe, Burger, Beverages",650,Delivery
+Srinathji's Cafe,No,No,3.8/5,148,Basavanagudi,"Casual Dining, Cafe","Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda","North Indian, Cafe, Chinese, Fast Food",550,Delivery
+Kollapuri's,No,No,3.9/5,206,Basavanagudi,Quick Bites,"Chicken Biryani, Mutton Biryani, Egg Biryani, Chicken Fry, Mutton Fry","South Indian, Mangalorean",450,Delivery
+Sugar Stars Co,No,No,,0,Basavanagudi,Bakery,,"Bakery, Desserts",300,Delivery
+Bombay Kulfis,No,No,,0,JP Nagar,Dessert Parlor,,Ice Cream,200,Delivery
+Kadamba Classic,No,No,3.6/5,16,Mysore Road,Quick Bites,,South Indian,300,Delivery
+RS Shiv Sagar,No,No,3.7/5,217,Basavanagudi,Casual Dining,"Chaat, Brownie, Onion Rings, Tomato Soup, Paneer Manchurian, Thali, Faluda","North Indian, Chinese, South Indian, Fast Food, Juices",450,Delivery
+Kholi Mane,No,No,3.6/5,46,Basavanagudi,Quick Bites,,"Andhra, South Indian, Biryani, North Indian",450,Delivery
+Harshi Super Sandwich,No,No,3.8/5,148,Basavanagudi,Quick Bites,"Sandwiches, Chocolate Sandwich, Chaat, Veg Cheese Sandwich, Chilli Cheese, Corn Sandwich","Fast Food, Street Food",150,Delivery
+Cake Yard,No,No,3.4/5,30,Basavanagudi,Dessert Parlor,,Desserts,250,Delivery
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6/5,8,Mysore Road,Casual Dining,,"North Indian, South Indian, Andhra, Chinese",800,Delivery
+Sri Udupi Veg,No,No,3.3/5,4,Jayanagar,Quick Bites,,South Indian,250,Delivery
+Cake Art,No,No,3.5/5,15,Basavanagudi,"Bakery, Quick Bites",,Bakery,400,Delivery
+Aahar Cafe,No,No,,0,Basavanagudi,Quick Bites,,South Indian,100,Delivery
+Akash Gowdru Biryani Center,No,No,,0,Uttarahalli,Quick Bites,,"North Indian, Chinese",300,Delivery
+New Sri Udupi Restaurant,No,No,,0,Jayanagar,Quick Bites,,"North Indian, South Indian, Chinese, Beverages, Fast Food",200,Delivery
+Potato House,Yes,No,3.4/5,9,Uttarahalli,Quick Bites,,Street Food,200,Delivery
+Hotel Biriyani Counter,No,No,,0,Vijay Nagar,Quick Bites,,"North Indian, Chinese, Biryani",350,Delivery
+Matru Sagar,Yes,No,3.7/5,31,Mysore Road,Quick Bites,,"South Indian, North Indian",300,Delivery
+Ugadi,Yes,No,2.9/5,177,Jayanagar,Casual Dining,"Prawn Biryani, Andhra Meal, Veg Thali, Fry Piece Biryani, Gongura Chicken, Paratha","North Indian, Chinese, Biryani, Andhra, Mangalorean",700,Delivery
+Sri Krishna Sweets,Yes,No,3.7/5,22,Basavanagudi,Sweet Shop,,"Mithai, Desserts",250,Delivery
+In Time Cane Juice,Yes,No,3.5/5,10,Kumaraswamy Layout,Beverage Shop,,"Juices, Beverages",100,Delivery
+Subway,Yes,No,3.7/5,136,Banashankari,Quick Bites,"Veggie Delight, Paneer Tikka, Salad","Salad, Fast Food",600,Delivery
+Daal Roti,Yes,No,2.9/5,35,Kumaraswamy Layout,Quick Bites,,"North Indian, Chinese",250,Delivery
+The Lassi Park,Yes,No,4.1/5,185,Jayanagar,Quick Bites,"Faluda, Brownie, Sandwich, Kulfi, Fruit Salad, Sweet Lassi, Chocolate Fudge","Juices, Desserts",200,Delivery
+Cafe Coffee Day,Yes,No,3.2/5,17,Jayanagar,Cafe,,"Cafe, Fast Food",900,Delivery
+A2B - Adyar Ananda Bhavan,Yes,No,3.8/5,155,Mysore Road,Casual Dining,"Pav Bhaji, Masala Dosa, Idli Vada, Filter Coffee, Pongal, Curd Rice, Kesari Bath","South Indian, North Indian, Chinese, Street Food",400,Delivery
+Srikrishna Bhavan,Yes,No,3.8/5,42,Banashankari,Quick Bites,"Roti, Masala Dosa","South Indian, North Indian, Chinese",300,Delivery
+Timepass Dinner,Yes,No,3.8/5,286,Basavanagudi,Casual Dining,"Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice",North Indian,600,Delivery
+Green Gardenia,Yes,No,3.8/5,160,Banashankari,Casual Dining,"Masala Papad, Paneer Satay, Paneer Hyderabadi, Butter Naan, Roti","North Indian, Chinese",700,Delivery
+J Spice,Yes,No,3.8/5,59,Banashankari,Casual Dining,"Stuffed Mushroom, Chicken Biryani, Jal-jeera","North Indian, Chinese",750,Delivery
+Karavali Family Restaurant,Yes,No,3.5/5,90,Jayanagar,Casual Dining,,"Seafood, Biryani, South Indian, North Indian, Chinese",500,Delivery
+Karavali Lunch Home,Yes,No,3.7/5,51,Kumaraswamy Layout,Quick Bites,,"South Indian, Mangalorean",350,Delivery
+Hatti Kaapi,Yes,No,4.0/5,89,Jayanagar,Quick Bites,"Filter Coffee, Tea, Hot Coffee, Hatti Samosa","South Indian, Beverages",200,Delivery
+Kolkata Kathi Roll's,Yes,No,3.6/5,18,Banashankari,Quick Bites,,"Fast Food, Rolls",250,Delivery
+Upahara Darshini,Yes,No,3.9/5,40,Basavanagudi,Casual Dining,Masala Dosa,"North Indian, Chinese, South Indian, Fast Food",600,Delivery
+The Chaat Shop,Yes,No,2.5/5,35,Basavanagudi,Quick Bites,"Badam Milk, Potato Twister, Pav Bhaji, Panipuri, Tikki Chaat, Cheese Cutlet",Fast Food,200,Delivery
+Anda Ka Funda,Yes,No,3.4/5,89,Jayanagar,Quick Bites,,"North Indian, Chinese, Rolls",250,Delivery
+Shri Vinayaka Ice N Juice,Yes,No,3.2/5,11,Basavanagudi,Quick Bites,,"Beverages, Fast Food",150,Delivery
+My Tea House,Yes,No,3.6/5,62,Banashankari,"Quick Bites, Cafe","Pasta, Iced Tea","Italian, Fast Food, Cafe, European",600,Delivery
+Ibaco,Yes,No,3.9/5,33,Jayanagar,Dessert Parlor,,Desserts,300,Delivery
+Jalaram Sweets,Yes,No,3.8/5,32,Jayanagar,Sweet Shop,,"Desserts, Mithai",250,Delivery
+Samskruti - Sanman Gardenia,Yes,No,4.1/5,139,Jayanagar,Casual Dining,"Roti, Butter Kulcha, Fried Rice, Tomato Soup, Curd Rice, Lunch Buffet, Paneer Tikka","North Indian, Chinese, South Indian",550,Delivery
+Bendakaluru Bytes,Yes,No,3.2/5,154,Vijay Nagar,Quick Bites,,Fast Food,300,Delivery
+Cocoa Bakes,Yes,No,3.6/5,14,Banashankari,Bakery,,"Bakery, Desserts",350,Delivery
+Chumma Delicious,Yes,No,3.7/5,237,Banashankari,Quick Bites,Chicken Biryani,"South Indian, Fast Food",200,Delivery
+New Prashanth Hotel,Yes,No,3.9/5,388,Banashankari,Casual Dining,"Chicken Biryani, Ragi Mudde, Mutton Chops","Biryani, North Indian, Seafood, Andhra",650,Delivery
+SSV Upahar,Yes,No,NEW,0,Jayanagar,Quick Bites,,"South Indian, Chinese",300,Delivery
+Dwaraka Grand,Yes,No,3.9/5,128,Kumaraswamy Layout,Casual Dining,"Masala Dosa, Coffee","South Indian, Chinese, Street Food, Juices",500,Delivery
+Gufha - The President Hotel,Yes,Yes,4.1/5,1875,Jayanagar,Casual Dining,"Cocktails, Paneer Tikka, Rasmalai, Rabri, Masala Papad, Vegetable Biryani, Chicken Curry","North Indian, Afghani, Mughlai","1,200",Delivery
+Cafe Vivacity,Yes,No,3.8/5,90,Banashankari,Cafe,"Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges",Cafe,650,Delivery
+Tanna's Kitchen,Yes,No,3.1/5,7,Kumaraswamy Layout,Quick Bites,,"Italian, Chinese, Street Food",250,Delivery
+Shree Mandarathi Grand,Yes,No,3.7/5,38,Uttarahalli,Casual Dining,,"South Indian, North Indian",400,Delivery
+Mojo Pizza - 2X Toppings,Yes,No,4.2/5,179,Banashankari,Delivery,"Veggie Pizza, Garlic Bread, Lava Cake, Chocolava, Spicy Paneer",Pizza,600,Delivery
+Iceberg Icecreams,Yes,No,4.0/5,43,Basavanagudi,Dessert Parlor,,"Desserts, Ice Cream",250,Delivery
+South Kitchen,Yes,No,4.3/5,275,Basavanagudi,Quick Bites,"Kharabath, Crispy Vada, Filter Coffee, Idli Vada, Idli Chutney, Kesari Bath, Gulab Jamun",South Indian,100,Delivery
+Chung Wah,Yes,No,3.7/5,323,Jayanagar,Casual Dining,"Noodles, Veg Momos, Chowmein, Schezwan Fried Rice, Clear Soup, Sweet Corn Soup, Chicken Wings","Chinese, Thai, Momos",850,Delivery
+Shanthi Sagar,Yes,No,3.1/5,28,Uttarahalli,Casual Dining,,"South Indian, North Indian, Chinese",400,Delivery
+Millet Mama,Yes,No,3.9/5,18,Basavanagudi,Quick Bites,,"South Indian, Healthy Food",200,Delivery
+Bangarpet Chat Express,Yes,No,3.3/5,6,Basavanagudi,Quick Bites,,"Street Food, Fast Food",100,Delivery
+South Cool Point,Yes,No,,0,Basavanagudi,Dessert Parlor,,Beverages,100,Delivery
+Prems Graama Bhojanam,Yes,No,4.3/5,322,Jayanagar,Casual Dining,"Veg Thali, Matka Kulfi, Pongal, Buttermilk, Vada, Ragi Mudde, Curd Rice",South Indian,400,Delivery
+Java City,Yes,No,2.6/5,157,Jayanagar,Cafe,"Coffee, Sandwich, Hot Chocolate, Ice Tea, Sandwiches, Chicken Lasagne, Pizza","Cafe, American, Pizza",450,Delivery
+Kamat Bugle Rock,Yes,No,3.9/5,543,Basavanagudi,Quick Bites,"Jowar Roti, Buttermilk, Jolada Rotti, Brinjal Curry, Coffee, Pongal, Vegetable Biryani","South Indian, Fast Food",300,Delivery
+Woodee Pizza,Yes,No,3.7/5,180,Banashankari,Cafe,"Pizza, Garlic Bread","Cafe, Pizza, Fast Food, Beverages",500,Delivery
+Puliyogare Point,Yes,No,4.2/5,444,Basavanagudi,Quick Bites,"Sweet Pongal, Mini Idlis, Filter Coffee, Open Masala Dosa, Pakoda, Vada, Raagi Dosa",South Indian,100,Delivery
+Bangalore Agarwal Bhavan,Yes,No,3.9/5,134,Jayanagar,Quick Bites,"Paratha, Coffee, Halwa, Lassi","Street Food, North Indian, South Indian",400,Delivery
+Rustic Stove,Yes,No,3.8/5,577,Jayanagar,Casual Dining,"Vegetable Biryani, Pineapple Rasam, Cheese Garlic Naan, Potato Cheese Ball, Bamboo Chicken Biryani, Chicken Skewer, Fish","North Indian, South Indian, Biryani, Beverages",900,Delivery
+Udupi Ruchi Grand,Yes,No,4.2/5,60,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",200,Delivery
+De Thaali,Yes,No,3.9/5,144,Jayanagar,Casual Dining,"Malai Kofta, Sandwich, Naan","North Indian, Chinese, Rolls",550,Delivery
+Spice Elephant,Yes,No,4.1/5,787,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,Delivery
+Just Thindi,Yes,No,3.6/5,16,Basavanagudi,Quick Bites,,South Indian,200,Delivery
+Matru Sagar,Yes,No,3.6/5,84,Banashankari,Quick Bites,"Coffee, Masala Dosa","South Indian, North Indian, Chinese",250,Delivery
+Vasanth Vihar - Since 1965,Yes,No,3.6/5,95,Banashankari,Quick Bites,,"South Indian, Street Food",150,Delivery
+Sea Spice by 7 Star,Yes,Yes,4.0/5,349,Banashankari,Casual Dining,"Sea Food, Neer Dosa, Anjal Masala Fry, Coconut Pudding, Chicken Biryani, Roti, Fish Curry","Seafood, Biryani, Beverages, South Indian, North Indian, Kebab","1,200",Delivery
+Desi Dawat,Yes,No,3.7/5,248,Kumaraswamy Layout,Quick Bites,"Tandoori Chicken, Rolls","North Indian, Fast Food",400,Delivery
+Cafe Aira,Yes,No,4.1/5,216,Basavanagudi,Cafe,"Pasta, Nachos, Jalapeno Poppers, Burrito Bowl, Ferrero Rocher Shake, Falafal Sandwich, Banana Waffles","Cafe, Continental, Beverages, Desserts",500,Delivery
+Donne Biriyani combos,Yes,No,,0,Kumaraswamy Layout,Casual Dining,,Biryani,400,Delivery
+Penthouse Cafe,Yes,No,4.0/5,324,Banashankari,Cafe,"Pizza, Mocktails, Coffee, Nachos, Salad, Pasta, Sandwiches","Cafe, Italian, Continental",700,Delivery
+Mast Punjabi,Yes,No,2.6/5,231,Kumaraswamy Layout,Quick Bites,Aloo Paratha,"North Indian, Chinese, Rolls, Biryani, Kebab",400,Delivery
+South Grand,Yes,No,3.4/5,102,Uttarahalli,Casual Dining,Rava Dosa,"South Indian, North Indian, Chinese, Beverages",400,Delivery
+Catch-up-ino,Yes,No,3.9/5,133,Banashankari,Cafe,"Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi","Cafe, Fast Food, Continental, Chinese, Momos",800,Delivery
+The Pizzeria,Yes,No,2.8/5,45,Banashankari,Casual Dining,Pesto Pizza,"Pizza, Italian, Salad",800,Delivery
+Cafe Zone,Yes,No,3.9/5,149,Kumaraswamy Layout,Quick Bites,,"Fast Food, Chinese, Rolls",300,Delivery
+Ruchis Point,Yes,No,3.8/5,75,Banashankari,Quick Bites,"Sandwiches, Noodles, Sandwich","Fast Food, Chinese",200,Delivery
+Firangi Bake,Yes,No,4.0/5,53,Rajarajeshwari Nagar,Delivery,"Lasagne, Steak, Masala Quesadilla, Garlic Bread","Mexican, Italian",600,Delivery
+The Royal Corner - Pai Viceroy,Yes,Yes,4.2/5,815,Jayanagar,Casual Dining,"Breakfast Buffet, Kulcha, Almond Soup, Lunch Buffet, Roti, Mocktails, Vegetarian","North Indian, Chinese",900,Delivery
+Hara Fine Dine,Yes,Yes,4.0/5,633,Banashankari,Casual Dining,"Hara Bhara Kabab, Crispy Corn, Patiala Paneer, Panneer Butter Masala, Dum Biryani, Jal-jeera, Butter Naan","North Indian, Chinese",800,Delivery
+Chocoberry,Yes,No,3.5/5,56,Jayanagar,Dessert Parlor,"Waffles, Cup Cake, Chocolate Cake","Ice Cream, Desserts, Beverages",400,Delivery
+Dakshin Grand,Yes,No,3.0/5,82,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",300,Delivery
+Sandwichwallas,Yes,No,3.7/5,35,Jayanagar,Quick Bites,,Fast Food,200,Delivery
+Chai Mane,Yes,No,3.6/5,20,Basavanagudi,Quick Bites,,"Juices, Fast Food",150,Delivery
+SLV Upachar,Yes,No,3.1/5,14,Kumaraswamy Layout,Quick Bites,,"South Indian, Chinese, Street Food",250,Delivery
+Waffle-A-Go Go,Yes,No,3.9/5,70,Banashankari,Dessert Parlor,Waffles,"Fast Food, Desserts, Ice Cream",400,Delivery
+Cross Road Cafe,Yes,No,3.9/5,91,Jayanagar,Cafe,"Momos, Burgers, Rolls, Sandwich, Hot Chocolate, Tea, Naga Thali","Cafe, Fast Food, Chinese",300,Delivery
+Anand Donne Biriyani,Yes,No,3.6/5,45,Jayanagar,Quick Bites,,Biryani,200,Delivery
+Seven Star,Yes,No,3.4/5,7,Banashankari,Quick Bites,,"North Indian, Chinese",250,Delivery
+Stop 'N' Joy,Yes,No,3.8/5,28,Banashankari,Quick Bites,,Fast Food,150,Delivery
+Sri Yaksha Shiv Sagar,Yes,No,3.6/5,24,Banashankari,Casual Dining,,"North Indian, Chinese",600,Delivery
+Fudge,Yes,No,3.8/5,36,Basavanagudi,Dessert Parlor,,"Desserts, Momos",200,Delivery
+Just Bunny,Yes,No,3.5/5,11,Jayanagar,Quick Bites,,Fast Food,200,Delivery
+Bakers Town,Yes,No,3.8/5,77,Kumaraswamy Layout,Cafe,"Freak Shake, Fries, Pasta Alfredo","Cafe, Continental, Fast Food",650,Delivery
+Shree Mahalakshmi Sweets,Yes,No,3.2/5,8,Banashankari,Sweet Shop,,"Mithai, Street Food",100,Delivery
+Kaapi Kendra,Yes,No,3.7/5,14,Jayanagar,Quick Bites,,South Indian,100,Delivery
+Ivy,Yes,No,3.8/5,210,Kumaraswamy Layout,Casual Dining,"Butter Chicken, Chicken Grill, Tandoori Chicken, Noodles, Biryani, Fried Rice Chicken","North Indian, Chinese, Fast Food",600,Delivery
+The Airos,Yes,No,4.1/5,130,Jayanagar,Cafe,"Pizza, Pasta, Nachos, Burgers, Sandwich, Tea, Cheese Balls","Cafe, Italian, Pizza",650,Delivery
+Chai Kraft,Yes,No,4.1/5,30,Jayanagar,Beverage Shop,"Masala Chai, Coffee, Masala Tea, Maggi","Beverages, Tea",100,Delivery
+Kirthi's Biryani,Yes,No,3.8/5,144,Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Delivery
+South Point Pub,Yes,No,3.4/5,11,Basavanagudi,Bar,,"North Indian, Seafood, Chinese",800,Delivery
+The Trundle,Yes,No,3.7/5,133,Jayanagar,Casual Dining,"Salad, Mocktails, Chocolava, Pesto Pasta, Momos, Jasmine Rice, Tom Yum Soup","Chinese, Thai, Continental, North Indian",700,Delivery
+The Krishna Grand Xpress,Yes,No,4.0/5,136,Jayanagar,Quick Bites,"Vada, Masala Dosa, Idli","South Indian, Fast Food",350,Delivery
+Sri Krishna Darshini,Yes,No,3.1/5,4,Basavanagudi,Quick Bites,,"South Indian, North Indian, Chinese",200,Delivery
+Shringar Sweets & Snacks,Yes,No,3.5/5,11,Basavanagudi,"Sweet Shop, Quick Bites",,"Mithai, South Indian, Street Food, Fast Food",200,Delivery
+Udupi Grand,Yes,No,3.8/5,74,Basavanagudi,Quick Bites,"Coffee, Masala Dosa, Vegetable Biryani","South Indian, North Indian, Chinese",300,Delivery
+Ganesh Grand,Yes,No,3.7/5,30,Basavanagudi,Quick Bites,,"South Indian, North Indian, Desserts",300,Delivery
+Shreyas Upahar & Burger Point,Yes,No,3.0/5,7,Basavanagudi,Quick Bites,,"South Indian, Burger",200,Delivery
+Coffee Tindi,Yes,No,3.8/5,75,Banashankari,"Cafe, Quick Bites",,"Cafe, South Indian",200,Delivery
+Little Cafe,Yes,No,3.7/5,54,Basavanagudi,Cafe,"Pasta, Pizza, Burgers, Pancakes, Garlic Bread","Cafe, Beverages",600,Delivery
+Mumbai Badam Milk & Lassi Center,Yes,No,3.6/5,23,Basavanagudi,Kiosk,,"Beverages, Desserts",100,Delivery
+Sri Krishna Sagar,Yes,No,3.2/5,119,Banashankari,Casual Dining,,"North Indian, Chinese",400,Delivery
+Mylari Biryani Family Restaurant,Yes,No,3.7/5,73,Banashankari,Quick Bites,,"Biryani, Fast Food",400,Delivery
+1980s Games Cafe,Yes,No,3.4/5,58,Basavanagudi,Cafe,"Maggi, Pasta, Burgers, Sandwiches, Fries","Cafe, Fast Food",400,Delivery
+Kadala Tarangaa,Yes,No,3.6/5,129,Banashankari,Casual Dining,"Sea Food, Neer Dosa","Mangalorean, Seafood, North Indian",600,Delivery
+Namma Biryani,Yes,No,3.6/5,24,Banashankari,Quick Bites,,"Biryani, Chinese, North Indian",250,Delivery
+Nandhanu's Rasoi,Yes,No,3.0/5,175,Kumaraswamy Layout,Quick Bites,,"Chinese, North Indian",400,Delivery
+Hotel Pork Paradise,Yes,No,3.7/5,21,Mysore Road,Quick Bites,,South Indian,300,Delivery
+As On Fire,Yes,No,3.5/5,41,South Bangalore,Food Truck,Pizza,"Pizza, Fast Food, BBQ",400,Delivery
+J K Fish Land,Yes,No,3.6/5,35,Jayanagar,Quick Bites,,"Seafood, Mangalorean",300,Delivery
+Curry Leaves,Yes,No,4.1/5,176,Basavanagudi,Casual Dining,"Brownie, Mojito, Prawn Ghee Roast, Corn Tikki, Mushroom Ghee Roast, Pinacolada, Biryani","Andhra, North Indian, Chinese",800,Delivery
+Lassi Shop,Yes,No,3.5/5,45,Banashankari,Beverage Shop,,"Beverages, Ice Cream, Fast Food",300,Delivery
+Magic Meals,Yes,No,3.7/5,47,Jayanagar,"Quick Bites, Dessert Parlor","Biryani, Thick Shakes, Fries","Fast Food, Desserts, Beverages",400,Delivery
+Desi Cream Junction,Yes,Yes,3.7/5,36,Jayanagar,Casual Dining,Vegetarian,"Chinese, North Indian, Pizza, Italian",650,Delivery
+Drunken Monkey,Yes,No,3.8/5,52,Kumaraswamy Layout,"Beverage Shop, Quick Bites",,"Beverages, Fast Food",400,Delivery
+Ruchi's Corner,Yes,No,2.7/5,123,Banashankari,Quick Bites,,Fast Food,200,Delivery
+Tandoori Bytes,Yes,No,3.6/5,59,Kumaraswamy Layout,Casual Dining,,North Indian,700,Delivery
+Bangalore Donne Biriyani,Yes,No,3.2/5,4,Kumaraswamy Layout,Quick Bites,,"South Indian, Biryani",300,Delivery
+SGS Non Veg - Gundu Pulav,Yes,No,3.8/5,101,Banashankari,Quick Bites,,"Biryani, Fast Food",400,Delivery
+Keventers,Yes,No,3.7/5,54,Banashankari,"Beverage Shop, Dessert Parlor",,"Desserts, Beverages, Ice Cream",400,Delivery
+Sree Sagar,Yes,No,,0,Banashankari,Quick Bites,,South Indian,200,Delivery
+Navi Food Point,Yes,No,3.6/5,22,Basavanagudi,Quick Bites,,Fast Food,200,Delivery
+Shawarma Inc,Yes,No,3.1/5,31,Banashankari,Takeaway,,"Rolls, Lebanese",250,Delivery
+The Cafe Nuts and Bolts,Yes,No,3.0/5,29,Kumaraswamy Layout,Cafe,,"Cafe, Fast Food, Chinese",500,Delivery
+AM WOW,Yes,No,3.4/5,6,Jayanagar,Beverage Shop,,Beverages,100,Delivery
+Lalbagh Grand,Yes,No,3.0/5,22,Basavanagudi,Quick Bites,,"South Indian, North Indian, Chinese",250,Delivery
+Funjabi Curries,Yes,No,2.9/5,11,Banashankari,Quick Bites,,North Indian,500,Delivery
+Eat Repeat,Yes,No,3.9/5,101,Basavanagudi,Quick Bites,"Sweet Pongal, Curd Rice",South Indian,150,Delivery
+Salut,Yes,Yes,4.1/5,442,Jayanagar,"Pub, Casual Dining","Pesto Pizza, Buffalo Wings, Cocktails, Beer, Egg Ghee Roast, Brownie, Pepper Chicken","Continental, Finger Food, Seafood, Pizza","1,200",Delivery
+Nammura Donne Biriyani,Yes,No,3.5/5,155,Basavanagudi,Quick Bites,,"Biryani, Fast Food",400,Delivery
+Lassi Stop,Yes,No,3.4/5,12,Banashankari,"Beverage Shop, Quick Bites",,"Beverages, Fast Food, Juices",150,Delivery
+Dakshin Kitchen,Yes,No,3.6/5,15,Basavanagudi,Quick Bites,,South Indian,100,Delivery
+Sri Sai Cafe,Yes,No,3.5/5,10,Basavanagudi,Quick Bites,,South Indian,200,Delivery
+Sri Sai 99 Variety Dosa,Yes,No,3.8/5,25,Banashankari,Quick Bites,,South Indian,300,Delivery
+Utsav Restaurant,Yes,No,3.8/5,61,Banashankari,Quick Bites,,"North Indian, Chinese",300,Delivery
+Crunch and Munch,Yes,No,3.7/5,23,Uttarahalli,Quick Bites,,"Chinese, Street Food, Ice Cream",300,Delivery
+Food Geek,Yes,No,3.8/5,25,Basavanagudi,Quick Bites,,"Sandwich, Fast Food, Rolls",350,Delivery
+Sri Krishna Aramane,Yes,No,3.7/5,40,Kumaraswamy Layout,Quick Bites,,"South Indian, North Indian, Chinese, Fast Food",200,Delivery
+Great Indian Rolls,Yes,No,3.3/5,4,Basavanagudi,Quick Bites,,Rolls,100,Delivery
+Chats Point,Yes,No,3.4/5,8,Basavanagudi,Quick Bites,,"Fast Food, Street Food",150,Delivery
+Food Point,Yes,No,3.5/5,32,Kumaraswamy Layout,Quick Bites,,"North Indian, Chinese",300,Delivery
+Swarga Ruchi,Yes,No,3.3/5,10,Basavanagudi,Quick Bites,,South Indian,200,Delivery
+Kolkata King,Yes,No,3.4/5,6,Basavanagudi,Quick Bites,,"Fast Food, Rolls",300,Delivery
+Sandwich Mama's And Frozen Monster,Yes,No,3.8/5,53,Jayanagar,Quick Bites,"Waffles, Sandwiches, Maggi, Thick Shakes, Chocolate Sandwich","Ice Cream, Beverages, Fast Food",250,Delivery
+New Rajadhani Spicy,Yes,No,3.7/5,67,Kumaraswamy Layout,Casual Dining,,North Indian,700,Delivery
+Big Mishra Pedha,Yes,No,2.9/5,23,Jayanagar,Sweet Shop,,Mithai,250,Delivery
+VEGeatz,Yes,No,3.4/5,19,Banashankari,Quick Bites,,"South Indian, North Indian",200,Delivery
+Foodizo,Yes,No,3.6/5,24,Banashankari,Quick Bites,,"Desserts, Fast Food, Continental",300,Delivery
+Food Springs,Yes,No,4.0/5,232,Jayanagar,Quick Bites,"Honey Chilli Potatoes, Nachos, Lemonade, Hakka Noodles, Babycorn Manchurian, Mushroom Manchurian, Spring Roll","South Indian, Chinese",400,Delivery
+Chung's Chinese Corner,Yes,No,3.9/5,221,Jayanagar,Casual Dining,"Manchow Soup, Momos, Wonton Soup, Chowmein, American Chopsuey, Chop Suey, Manchurian",Chinese,700,Delivery
+Eurasia Pasta and Barbeque by Little Italy,Yes,Yes,4.1/5,1063,Jayanagar,"Casual Dining, Bar","Pasta, Pizza, Nachos, Gelato, Ravioli, Jalapeno Poppers, Cocktails","Italian, Fast Food, Salad, BBQ","1,200",Delivery
+Goli Vada Pav No. 1,Yes,No,3.7/5,93,Basavanagudi,Quick Bites,"Masala Vada Pav, Cheese Vada Pav, Fries",Street Food,200,Delivery
+Ragoo's,Yes,No,3.9/5,233,Jayanagar,Casual Dining,"Corn Augratin, Lasagne, Fries, Garlic Bread, Pili Pili Pizza, Mexican Rice, Ravioli","Italian, Pizza, North Indian, Salad",800,Delivery
+Pure & Natural,Yes,No,3.9/5,211,Jayanagar,Casual Dining,"Salads, Sandwiches, Pasta, Mocktails, Corn Sandwich, Garden Salad, Miso Salad","Fast Food, Continental, Beverages, Salad, Healthy Food",500,Delivery
+Maiyas,Yes,No,4.0/5,1778,Jayanagar,Quick Bites,"Coffee, Thali, Kharabath, Masala Dosa, Idli Vada, Vanilla Ice Cream, Bisi Bele Bhaath","North Indian, South Indian, Fast Food, Juices",200,Delivery
+Sip n Dine,Yes,No,3.6/5,218,Vijay Nagar,Casual Dining,"Veg Jaipuri, Neer Dosa, Kulcha, Pepper Chicken, Chilli Mushroom, Murgh Platter, Paneer Tikka","North Indian, Chinese, South Indian",800,Delivery
+Cafe Mondo,Yes,No,3.7/5,514,Basavanagudi,Cafe,"Pizza, Pasta Alfredo, Brownie, Garlic Bread, Sandwiches, Lemon Mojito, Mocha Fudge","Cafe, Italian, Beverages",600,Delivery
+Jalpaan,Yes,Yes,4.0/5,866,Jayanagar,Casual Dining,"Mocktails, Tomato Soup, Pasta, Nachos, Chaat, Potli Biryani, Lassi","North Indian, Continental",900,Delivery
+Kataria's Pakwan,Yes,No,3.2/5,96,Kumaraswamy Layout,Quick Bites,"Paratha, Lassi, Manchurian, Thali",North Indian,400,Delivery
+Juicy Momos,Yes,No,3.5/5,80,Banashankari,Quick Bites,"Rolls, Burgers, Juicy Momos, Chicken Momo, Chocolate Momos, Mushroom Momo, Paneer Momos","Tibetan, Momos",250,Delivery
+Amande Patisserie,Yes,No,4.0/5,73,Basavanagudi,Bakery,"Macaroon, Mousse, Caramel Eclair","Bakery, French, Desserts",300,Delivery
+Anand Sweets and Savouries,Yes,No,3.9/5,84,Jayanagar,Sweet Shop,"Dahi Papadi Chaat, Papdi Chaat, Bhel Puri, Paratha, Kachori, Thali, Masala Poori","Mithai, Street Food",400,Delivery
+Chicken Hunt,Yes,No,3.5/5,88,Banashankari,Quick Bites,Chicken Grill,"South Indian, North Indian, Chinese, Biryani",350,Delivery
+Swadesh Tadka,Yes,No,3.5/5,179,Banashankari,Casual Dining,"Gulab Jamun, Roti, Masala Papad, Babycorn Manchurian, Paratha, Clear Soup, Biryani","North Indian, Chinese, Beverages",600,Delivery
+Cane-O-La,Yes,No,3.8/5,61,Basavanagudi,Quick Bites,"Sugarcane Juice, Popcorn",Juices,100,Delivery
+New Biryani Mane,Yes,No,3.7/5,128,Uttarahalli,Casual Dining,"Egg Biryani, Tandoori Chicken, Fish, Rumali Roti","North Indian, Chinese, Biryani, South Indian",450,Delivery
+Upahara Darshini,Yes,No,3.8/5,339,Jayanagar,Quick Bites,"Rava Dosa, Roti, Masala Dosa, Kulcha, Sandwiches, Vada Pav, Idli","South Indian, North Indian, Chinese",400,Delivery
+Karnataka Bhel House,Yes,No,4.1/5,449,Basavanagudi,Quick Bites,"Masala Poori, Bhel Puri, Panipuri, Chaat, Dahipuri, Sev Puri, Dahi Aloo Puri",Street Food,100,Delivery
+Sreeraj Lassi Bar,Yes,No,4.1/5,210,Jayanagar,"Dessert Parlor, Beverage Shop","Faluda, Mango Lassi, Sweet Lassi, Fruit Salad, Shrikhand, Matka Kulfi, Pudina Lassi",Beverages,150,Delivery
+Juice Junction Food Court,Yes,No,3.7/5,57,Basavanagudi,Quick Bites,,"Juices, South Indian, Chinese, Fast Food",200,Delivery
+Bunt's Biriyani Palace,Yes,No,3.0/5,213,Banashankari,Quick Bites,"Neer Dosa, Sea Food, Pepper Chicken","North Indian, South Indian, Chinese, Biryani, Seafood",400,Delivery
+Chai Point,Yes,No,3.2/5,208,Jayanagar,"Beverage Shop, Quick Bites","Ginger Chai, Ginger Tea, Banana Cake, Samosa, Masala Chai, Banana Walnut","Tea, Beverages, Fast Food",250,Delivery
+Janahaar,Yes,No,3.8/5,70,Banashankari,Quick Bites,"Masala Dosa, Idli, Filter Coffee, Medu Dosa",South Indian,100,Delivery
+Redberrys,Yes,No,4.0/5,219,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Delivery
+Utsav,Yes,No,3.7/5,59,Banashankari,Quick Bites,"Paratha, Kachori, Tea, Lassi, Samosa, Vada Pav","North Indian, Street Food",200,Delivery
+Meat And Eat,Yes,No,3.1/5,10,Banashankari,Quick Bites,,"Fast Food, Burger",500,Delivery
+Snacks Bite,Yes,No,3.0/5,9,Kumaraswamy Layout,Quick Bites,,"Fast Food, Momos",400,Delivery
+The Spice Saga,Yes,No,3.7/5,124,Kumaraswamy Layout,Casual Dining,"Biryani, Chicken Grill, Butter Chicken","Biryani, North Indian, Chinese, Seafood",750,Delivery
+Dakshin Cafe,Yes,No,3.7/5,19,Kumaraswamy Layout,Quick Bites,,South Indian,100,Delivery
+Mr. Parathewala,Yes,No,,0,Jayanagar,"Takeaway, Delivery",,North Indian,300,Delivery
+Kaulige Millet Corner,Yes,No,3.3/5,4,Basavanagudi,Quick Bites,,"Healthy Food, South Indian",150,Delivery
+Ifruit Ice Cream,Yes,No,3.3/5,4,Kumaraswamy Layout,Dessert Parlor,,"Desserts, Ice Cream",150,Delivery
+Havmor,Yes,No,3.8/5,21,Basavanagudi,Dessert Parlor,,"Ice Cream, Desserts",200,Delivery
+Grand Food,Yes,No,3.4/5,8,Banashankari,"Quick Bites, Bakery",,"South Indian, Bakery, Chinese",250,Delivery
+Dining Hut,Yes,No,3.5/5,10,Kumaraswamy Layout,Quick Bites,,"North Indian, Chinese, South Indian",400,Delivery
+7 Hills Garden Restaurant,Yes,No,,0,Banashankari,Quick Bites,,"North Indian, Mughlai, Chinese",400,Delivery
+Desi Swaad,Yes,No,3.5/5,10,Kumaraswamy Layout,Quick Bites,,North Indian,400,Delivery
+Yummy Momos,Yes,No,3.2/5,4,Kumaraswamy Layout,Quick Bites,,"Momos, Tibetan, Chinese",200,Delivery
+Masale Daan,Yes,No,3.1/5,4,Banashankari,Delivery,,North Indian,350,Delivery
+Sri Manjunatha Tandoori Corner,Yes,No,,0,Uttarahalli,Quick Bites,,Mughlai,300,Delivery
+Grow Fit,Yes,No,3.6/5,16,JP Nagar,"Takeaway, Delivery",,"Healthy Food, North Indian, Thai",500,Delivery
+The House Of Vadapav,Yes,No,,0,Banashankari,Quick Bites,,,150,Delivery
+Cutcakes,Yes,No,,0,Kumaraswamy Layout,"Takeaway, Delivery",,Bakery,300,Delivery
+Lassi Spot,Yes,No,3.3/5,4,Kumaraswamy Layout,Beverage Shop,,,100,Delivery
+Sandwich Hub,Yes,No,3.4/5,12,Jayanagar,Quick Bites,,"Fast Food, Sandwich",300,Delivery
+Healthy Bakes 'n' Brew,Yes,No,,0,Jayanagar,Bakery,,Bakery,150,Delivery
+Udupi Sri Krishna Cafe,Yes,No,3.9/5,14,Jayanagar,Casual Dining,,"North Indian, South Indian",600,Delivery
+Starlite Bakery & Fastfood,Yes,No,3.7/5,0,Jayanagar,Quick Bites,,"North Indian, Chinese, Rolls, Bakery, Arabian, Charcoal Chicken, Desserts",300,Delivery
+Veganbreak24x7,Yes,No,2.8/5,5,City Market,"Takeaway, Delivery",,"South Indian, Chinese, Continental, Biryani",199,Delivery
+Aadhya Hotel,Yes,No,3.3/5,5,Basavanagudi,"Casual Dining, Bar",,"South Indian, North Indian, Chinese, Biryani",800,Delivery
+Dodda Mane Baaduta,Yes,No,3.5/5,15,Banashankari,Quick Bites,,"North Indian, South Indian, Chinese, Biryani",250,Delivery
+Swadd Kitchen,Yes,No,3.4/5,4,Basavanagudi,Casual Dining,,"North Indian, Fast Food",500,Delivery
+Nandini Milk Parlour and Restaurant,Yes,No,,0,Mysore Road,"Dessert Parlor, Quick Bites",,"Sandwich, Rolls, South Indian, Ice Cream",250,Delivery
+Happy Chopsticks,Yes,No,3.6/5,17,Basavanagudi,Quick Bites,,"Chinese, Fast Food",300,Delivery
+Sai Super Sandwich,Yes,No,NEW,0,Banashankari,Quick Bites,,"Sandwich, Beverages",200,Delivery
+Right Pizza,Yes,No,NEW,0,Basavanagudi,Quick Bites,,Pizza,300,Delivery
+Udupi Upachar,Yes,No,3.3/5,6,Banashankari,Quick Bites,,"South Indian, North Indian",500,Delivery
+Davanagere Benne Dose Hut,Yes,No,3.4/5,10,Banashankari,Quick Bites,,South Indian,100,Delivery
+The Sip Shop,Yes,No,NEW,0,Basavanagudi,Quick Bites,,"Pizza, Beverages, Ice Cream",200,Delivery
+Jalsa,Yes,Yes,4.1/5,775,Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,Delivery
+Subz,Yes,Yes,4.2/5,2022,Jayanagar,Casual Dining,"Veg Buffet, Pasta, Salads, Rasmalai, Chaat, Biryani, Fries","North Indian, South Indian","1,000",Delivery
+Rajastani Rasoi,Yes,No,,0,Basavanagudi,Quick Bites,,North Indian,100,Delivery
+Sri Banashankari Upahara,Yes,No,NEW,0,Kumaraswamy Layout,Quick Bites,,"North Indian, South Indian",150,Delivery
+Cafe Shuffle,Yes,Yes,4.2/5,150,Banashankari,Cafe,"Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos","Cafe, Italian, Continental",600,Delivery
+Mint and Mustard,Yes,No,4.0/5,232,Basavanagudi,Casual Dining,"Paneer Tikka, Masala Papad, Garlic Naan","North Indian, Chinese",750,Delivery
+Chinese Square,Yes,No,3.9/5,38,Basavanagudi,Quick Bites,,Chinese,200,Delivery
+Hyderabad Express,Yes,No,NEW,0,Banashankari,Quick Bites,,"Hyderabadi, Biryani, South Indian, Andhra, Beverages",300,Delivery
+Punjabi Raswada,Yes,Yes,3.5/5,431,Jayanagar,Casual Dining,"Gajar Ka Halwa, Lassi, Jeera Rice, Shahi Paneer, Shikanji, Makke Ki Roti, Kofta Curry",North Indian,800,Delivery
+Vinny's,Yes,Yes,4.2/5,2115,Banashankari,Casual Dining,"Pizza, Pasta, Garlic Bread, Nachos, Penne Alfredo, Mozzarella Sticks, Salad","Pizza, Italian, Continental, Desserts",800,Delivery
+Chetty's Corner,Yes,No,3.4/5,30,Uttarahalli,Quick Bites,,"Fast Food, Burger, Pizza",200,Delivery
+Kapoor's Cafe,Yes,No,4.2/5,150,Jayanagar,Casual Dining,"Lassi, French Fries, Cheese Balls, Paneer Pakora, Dal Makhani, Buttermilk, Cheese Paratha",North Indian,800,Delivery
+Donne Biryani & Kabab Corner,Yes,No,3.3/5,12,Kumaraswamy Layout,Quick Bites,,"Chinese, Biryani",200,Delivery
+Sukh Sagar,Yes,No,3.8/5,155,Jayanagar,Casual Dining,"Pav Bhaji, Chaat, Sandwiches, Coffee, Noodles, Masala Dosa, Roti","South Indian, North Indian, Chinese, Street Food",450,Delivery
+S M V Snacks Corner,Yes,No,3.7/5,33,Basavanagudi,Quick Bites,,Fast Food,200,Delivery
+Andhra Ruchulu,Yes,Yes,4.1/5,666,Jayanagar,"Casual Dining, Bar","Andhra Meal, Mutton Biryani, Chicken Sholay, Chicken Biryani, Chicken Guntur, Andhra Thali, Guava Ice Cream","Andhra, Biryani, North Indian, Chinese","1,000",Delivery
+The Samosa Co,Yes,No,,0,Jayanagar,Quick Bites,,"Fast Food, Mithai",200,Delivery
+Steaming Mugs,Yes,No,3.9/5,240,Basavanagudi,Cafe,"Fries, Oreo Shake, Pasta Arrabiata",Cafe,700,Delivery
+San Churro Cafe,Yes,No,3.8/5,918,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Delivery
+Rajathadri Food Fort,Yes,No,4.0/5,465,Jayanagar,Casual Dining,"Butter Naan, Filter Coffee, Pav Bhaji, Vada, Babycorn Manchurian, Tea, Paneer Tikka Masala","South Indian, North Indian, Chinese, Street Food",600,Delivery
+Brew Meister,Yes,Yes,4.1/5,970,Jayanagar,"Microbrewery, Casual Dining","Cocktails, Pasta, Paneer Tikka, Mocktails, Wheat Beer, Corn Paratha, Misal Pav","North Indian, Continental, Finger Food, American, Asian","1,500",Delivery
+Rasoi,Yes,No,3.3/5,128,Banashankari,Quick Bites,"Lassi, Panneer Butter Masala, Paratha, Thali","North Indian, Chinese",300,Delivery
+Mr. Singh Da Dhaba,Yes,No,3.6/5,241,Kumaraswamy Layout,Quick Bites,"Mughlai Paratha, Laccha Paratha, Rolls","North Indian, Chinese",300,Delivery
+Kababs N Biryani,Yes,No,3.4/5,22,Banashankari,Quick Bites,,South Indian,200,Delivery
+Ayodhya Upachar,Yes,No,4.3/5,734,Banashankari,Quick Bites,"Panneer Butter Masala, Vada, Curd Rice, Idli, Jeera Rice, Naan, Kulcha","South Indian, North Indian, Chinese, Street Food",200,Delivery
+Biriyani Mane,Yes,No,3.8/5,130,Jayanagar,Quick Bites,"Biryani, Chilli Chicken, Neer Dosa","North Indian, Biryani",400,Delivery
+Cafe Ajfan,Yes,No,4.2/5,261,Jayanagar,Cafe,"Sandwiches, Pasta, Cobb Salad, Pizza, Burgers, Calzone, Fries","Cafe, Continental, Beverages",700,Delivery
+Brundhavana Food Point,Yes,No,4.0/5,191,Kumaraswamy Layout,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Street Food, Beverages",300,Delivery
+SLV Corner Restaurant,Yes,No,4.1/5,364,Basavanagudi,Casual Dining,"Masala Dosa, Filter Coffee, Maddur Vada, Curd Vadai, Onion Dosa, Upma, Sunday Breakfast","South Indian, Chinese, North Indian, Street Food, Rolls, Juices",550,Delivery
+Biryani Royals Garden,Yes,No,NEW,0,Kumaraswamy Layout,Quick Bites,,"North Indian, Biryani, Mughlai",500,Delivery
+Hotel New Karavali,Yes,No,3.8/5,133,Banashankari,Quick Bites,,"Mangalorean, South Indian, North Indian",300,Delivery
+The Krishna Grand,Yes,No,3.9/5,888,Banashankari,Casual Dining,"Spring Dosa, Coffee, Spring Roll, Masala Papad, Rava Idli, Panneer Butter Masala, Chaat","North Indian, South Indian, Chinese, Fast Food, Juices",750,Delivery
+360 Atoms Restaurant And Cafe,Yes,No,3.1/5,13,Banashankari,Cafe,,"Cafe, Chinese, Continental, Italian",400,Delivery
+Roti Ghar,Yes,No,3.9/5,750,Basavanagudi,Casual Dining,"Coffee, Spring Roll, Roti, Panneer Butter Masala, Noodles, Butter Naan, Masala Dosa","North Indian, Chinese, South Indian",500,Delivery
+The Coffee Shack,Yes,Yes,4.2/5,164,Banashankari,Cafe,"Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread","Cafe, Chinese, Continental, Italian",500,Delivery
+Multi Snacky Hub,No,No,NEW,0,Basavanagudi,Quick Bites,,Fast Food,200,Delivery
+Kettle & Kegs,Yes,No,3.2/5,6,Banashankari,Delivery,,"Tea, Beverages",200,Delivery
+Baisakhi,Yes,No,3.8/5,527,Basavanagudi,Casual Dining,"Masala Chaach, Tomato Shorba, Gajar Ka Halwa, Biryani, Deluxe Punjabi Thali, Rajma, Paneer Tikka Masala",North Indian,500,Delivery
+Corner House Ice Cream,No,No,4.3/5,345,Banashankari,Dessert Parlor,"Hot Chocolate Fudge, Vanilla Ice Cream, Fudge Cake, Chocolate Mousse","Ice Cream, Desserts",400,Desserts
+Poonam Sweets,No,No,4.4/5,356,Banashankari,Sweet Shop,"Dhokla, Jalebi, Badam Milk, Rabri, Rasgulla, Rasmalai, Samosa Kachori",Mithai,150,Desserts
+XO Belgian Waffle,Yes,No,3.7/5,17,Banashankari,Dessert Parlor,,"Desserts, Beverages",400,Desserts
+Old Mumbai Ice Cream,Yes,No,3.9/5,38,Banashankari,Dessert Parlor,Friendly Staff,Ice Cream,150,Desserts
+Cake of the Day,No,No,3.7/5,78,Banashankari,"Bakery, Dessert Parlor",,Bakery,150,Desserts
+Amma's Pastries,No,No,3.8/5,60,Banashankari,Dessert Parlor,,Bakery,400,Desserts
+Kanti Sweets,Yes,No,4.0/5,115,Banashankari,Sweet Shop,,"Mithai, Street Food",400,Desserts
+Sugar Rush,No,No,3.8/5,39,Banashankari,Bakery,,"Bakery, Desserts",300,Desserts
+Polar Bear,Yes,No,3.9/5,116,Banashankari,Dessert Parlor,"Sandwiches, Hot Chocolate Fudge, Strawberry Milkshake","Ice Cream, Desserts, Beverages, Sandwich",400,Desserts
+San Churro Cafe,Yes,No,3.8/5,918,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Desserts
+Anand Sweets and Savouries,No,No,3.7/5,46,Banashankari,"Sweet Shop, Quick Bites",,"Mithai, Street Food",400,Desserts
+Ibaco,Yes,No,3.9/5,41,Banashankari,Dessert Parlor,,Desserts,300,Desserts
+Kirthi's Biryani,Yes,No,3.8/5,144,Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Desserts
+The Lassi and Juice Park,No,No,3.8/5,28,Banashankari,"Beverage Shop, Dessert Parlor",,"Juices, Desserts",150,Desserts
+Stoned Monkey,Yes,No,4.3/5,860,Banashankari,Dessert Parlor,"Nachos, Cup Cake, Hot Chocolate Fudge, Salsa, Cheesy Garlic Bread, Waffles, Tiramisu","Desserts, Ice Cream",500,Desserts
+Parimala Sweets,No,No,3.5/5,14,Banashankari,Sweet Shop,,"Mithai, Street Food",200,Desserts
+The Big O Bakes,No,No,4.0/5,66,Banashankari,Bakery,,"Bakery, Desserts",300,Desserts
+Shree Mahalakshmi Sweets,Yes,No,3.2/5,8,Banashankari,Sweet Shop,,"Mithai, Street Food",100,Desserts
+Keventers,Yes,No,3.7/5,54,Banashankari,"Beverage Shop, Dessert Parlor",,"Desserts, Beverages, Ice Cream",400,Desserts
+Dessert Rose,No,No,3.5/5,7,Banashankari,Dessert Parlor,,Desserts,500,Desserts
+Thanco's Natural Ice Creams,No,No,3.2/5,9,Banashankari,Dessert Parlor,,Ice Cream,300,Desserts
+Corner Stone,No,No,3.6/5,42,Banashankari,"Beverage Shop, Quick Bites",,"Beverages, Juices, Desserts, Italian",300,Desserts
+Kaggis,No,No,3.8/5,64,Banashankari,Quick Bites,,"Fast Food, Bakery",250,Desserts
+Cocoa Bakes,Yes,No,3.6/5,14,Banashankari,Bakery,,"Bakery, Desserts",350,Desserts
+Floured-Baked With Love,No,No,3.8/5,45,Banashankari,"Takeaway, Delivery","Cup Cake, Chocolate Cake",Bakery,400,Desserts
+CAFE NOVA,No,No,3.2/5,11,Banashankari,Cafe,,"Cafe, Bakery",600,Desserts
+Cakes & Slices,No,No,3.5/5,13,Banashankari,Bakery,,"Bakery, Desserts",300,Desserts
+Arun Ice Cream,No,No,3.4/5,7,Banashankari,Dessert Parlor,,"Ice Cream, Desserts",150,Desserts
+Just Bake,No,No,3.4/5,8,Banashankari,Bakery,,"Bakery, Desserts",400,Desserts
+Dharwad Line Bazaar Mishra Pedha,No,No,,0,Banashankari,Dessert Parlor,,Mithai,150,Desserts
+Cake Bite,No,No,,0,Banashankari,Bakery,,Bakery,300,Desserts
+Kwality Wall's Swirl's Happiness Station,No,No,2.9/5,25,Banashankari,Dessert Parlor,,"Ice Cream, Desserts",200,Desserts
+Melting Melodies,No,No,NEW,0,Banashankari,Bakery,,Bakery,300,Desserts
+Sweet N Swirl,No,No,3.2/5,17,Banashankari,Dessert Parlor,,"Desserts, Ice Cream",150,Desserts
+Me And My Cake,No,No,,0,Banashankari,Delivery,,"Bakery, Desserts",500,Desserts
+Mukesh Sweet Centre,No,No,,0,Banashankari,Sweet Shop,,Mithai,300,Desserts
+Darkolates,No,No,,0,Banashankari,Confectionery,,Desserts,200,Desserts
+Sai Super Sandwich,Yes,No,NEW,0,Banashankari,Quick Bites,,"Sandwich, Beverages",200,Desserts
+Sweet Truth,Yes,No,3.9/5,35,Banashankari,Delivery,,"Bakery, Desserts",500,Desserts
+Waffle-A-Go Go,Yes,No,3.9/5,70,Banashankari,Dessert Parlor,Waffles,"Fast Food, Desserts, Ice Cream",400,Desserts
+Gopi Ice Creams,No,No,NEW,0,Banashankari,Dessert Parlor,,Ice Cream,100,Desserts
+Sri Venkateshwara Sweet Meat Stall,No,No,4.0/5,98,Basavanagudi,"Sweet Shop, Quick Bites","Mysore Pak, Pav Bhaji, Chaat, Masala Poori, Badam Milk, Paratha, Panipuri","Mithai, Street Food, North Indian, Chinese",400,Desserts
+Baskin Robbins,No,No,3.7/5,25,Basavanagudi,Dessert Parlor,,"Ice Cream, Desserts",250,Desserts
+Redberrys,Yes,No,4.0/5,219,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Desserts
+Amande Patisserie,Yes,No,4.0/5,73,Basavanagudi,Bakery,"Macaroon, Mousse, Caramel Eclair","Bakery, French, Desserts",300,Desserts
+Srinivasa Brahmins Bakery,No,No,3.6/5,16,Basavanagudi,"Bakery, Quick Bites",,"Bakery, Street Food",150,Desserts
+Jain Bakes,No,No,3.6/5,8,Basavanagudi,Bakery,,"Bakery, Desserts",250,Desserts
+Cake Ghar,Yes,No,3.8/5,15,Basavanagudi,Bakery,,Bakery,400,Desserts
+KC Das - Sweet Spot,No,No,3.6/5,46,Basavanagudi,"Sweet Shop, Quick Bites",,"Mithai, Street Food",200,Desserts
+Sugar Stars Co,No,No,,0,Basavanagudi,Bakery,,"Bakery, Desserts",300,Desserts
+Diabetics Dezire Sugarless Sweets and Bakes,Yes,No,3.3/5,13,Basavanagudi,"Dessert Parlor, Sweet Shop",,"Desserts, Mithai",300,Desserts
+Cake Yard,Yes,No,3.3/5,9,Basavanagudi,Dessert Parlor,,Desserts,250,Desserts
+Iceberg Icecreams,Yes,No,4.0/5,43,Basavanagudi,Dessert Parlor,,"Desserts, Ice Cream",250,Desserts
+A2B Veg - Adyar Ananda Bhavan,Yes,No,2.7/5,97,Basavanagudi,Casual Dining,Masala Dosa,"South Indian, North Indian, Chinese, Street Food",400,Desserts
+Bombay Kulfis,No,No,,0,JP Nagar,Dessert Parlor,,Ice Cream,200,Desserts
+Sri Krishna Sweets,Yes,No,3.7/5,22,Basavanagudi,Sweet Shop,,"Mithai, Desserts",250,Desserts
+Cake Art,No,No,3.5/5,15,Basavanagudi,"Bakery, Quick Bites",,Bakery,400,Desserts
+Cakecraft,No,No,,0,Jayanagar,Takeaway,,Desserts,350,Desserts
+Asha Sweets Centre,Yes,No,3.6/5,27,Basavanagudi,Dessert Parlor,,Fast Food,250,Desserts
+My Tea House,Yes,Yes,NEW,0,Banashankari,Casual Dining,,"Continental, Asian, North Indian, Tea",500,Dine-out
+The Krishna Grand,Yes,No,3.9/5,888,Banashankari,Casual Dining,"Spring Dosa, Coffee, Spring Roll, Masala Papad, Rava Idli, Panneer Butter Masala, Chaat","North Indian, South Indian, Chinese, Fast Food, Juices",750,Dine-out
+Sea Spice by 7 Star,Yes,Yes,4.0/5,349,Banashankari,Casual Dining,"Sea Food, Neer Dosa, Anjal Masala Fry, Coconut Pudding, Chicken Biryani, Roti, Fish Curry","Seafood, Biryani, Beverages, South Indian, North Indian, Kebab","1,200",Dine-out
+Mini Punjabi Dhaba,Yes,No,4.2/5,287,Banashankari,Quick Bites,"Panneer Butter Masala, Lassi, Paratha, Jeera Rice, Paneer Parantha, Bhindi Fry, Veg Kolhapuri",North Indian,350,Dine-out
+Onesta,Yes,Yes,4.6/5,2556,Banashankari,"Casual Dining, Cafe","Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza","Pizza, Cafe, Italian",600,Dine-out
+Wamama,Yes,Yes,4.2/5,354,Banashankari,Casual Dining,"Sushi, Noodles, Wine, Khau Suey, Mocktails, Yakisoba, Spring Roll","Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",800,Dine-out
+Jalsa,Yes,Yes,4.1/5,775,Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,Dine-out
+Vinny's,Yes,Yes,4.2/5,2115,Banashankari,Casual Dining,"Pizza, Pasta, Garlic Bread, Nachos, Penne Alfredo, Mozzarella Sticks, Salad","Pizza, Italian, Continental, Desserts",800,Dine-out
+Jcubez,No,Yes,3.8/5,977,Banashankari,Lounge,"Beer, Chicken Wings, Chilli Chicken, Onion Rings, Fries",Finger Food,"1,300",Dine-out
+Gustoes Beer House,No,No,4.1/5,868,Banashankari,Pub,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings","Continental, Italian, Mexican, North Indian, Chinese, Steak","1,200",Dine-out
+Penthouse Cafe,Yes,No,4.0/5,324,Banashankari,Cafe,"Pizza, Mocktails, Coffee, Nachos, Salad, Pasta, Sandwiches","Cafe, Italian, Continental",700,Dine-out
+Spice Elephant,Yes,No,4.1/5,787,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,Dine-out
+Smacznego,Yes,No,4.2/5,504,Banashankari,Cafe,"Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos","Cafe, Mexican, Italian, Momos, Beverages",550,Dine-out
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,4.1/5,402,Banashankari,Cafe,"Waffles, Pasta, Crispy Chicken, Honey Chilli Chicken, Sandwich, Coffee, Crepe",Cafe,500,Dine-out
+Cafe Shuffle,Yes,Yes,4.2/5,150,Banashankari,Cafe,"Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos","Cafe, Italian, Continental",600,Dine-out
+The Coffee Shack,Yes,Yes,4.2/5,164,Banashankari,Cafe,"Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread","Cafe, Chinese, Continental, Italian",500,Dine-out
+Peppy Peppers,No,No,4.2/5,244,Banashankari,Casual Dining,"Pasta, Pepper Pizza, Paneer Pizza, Peppy Paneer, Nachos, Supreme Pizza, Manchow Soup","Italian, North Indian, Mexican",800,Dine-out
+Anna Kuteera,Yes,No,4.0/5,771,Banashankari,Casual Dining,"Panner Tikka, Kulfi, Coffee, Pav Bhaji, Carrot Halwa, Fried Rice, Set Dosa","South Indian, North Indian, Chinese",450,Dine-out
+Szechuan Dragon,Yes,No,4.2/5,1647,Banashankari,Casual Dining,"Noodles, Momos, Veg Manchow Soup, Kung Pao Chicken, Chicken Lollipop, Chop Suey, Dragon Chicken","Chinese, Thai, Momos",600,Dine-out
+1947,No,Yes,4.0/5,808,Banashankari,Casual Dining,"Salads, Panneer Butter Masala, Rabri, Gajar Ka Halwa, Manchow Soup, Aam Panna, Tomato Basil Soup","North Indian, Chinese",850,Dine-out
+Caf-Eleven,No,No,4.0/5,424,Banashankari,Cafe,"Sandwich, Omelette, Ice Tea, Virgin Mojito, Hot Chocolate, Pasta Arrabiata, Hazelnut Cappuccino","Cafe, Continental",450,Dine-out
+Thamboola,Yes,No,3.9/5,135,Banashankari,Casual Dining,"Spring Roll, Manchow Soup, Babycorn Manchurian, Mint Cooler, Roti, Panneer Butter Masala","North Indian, Chinese, Continental",800,Dine-out
+Ferment,No,No,NEW,0,Banashankari,"Casual Dining, Bar",,Continental,"1,000",Dine-out
+Havyaka Mess,No,No,3.9/5,28,Banashankari,Mess,,South Indian,300,Dine-out
+San Churro Cafe,Yes,No,3.8/5,918,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Dine-out
+Cafe Vivacity,Yes,No,3.8/5,90,Banashankari,Cafe,"Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges",Cafe,650,Dine-out
+Chung Wah,Yes,No,3.9/5,519,Banashankari,Casual Dining,"Tom Yum Soup, Wine, Spring Roll, Singapore Noodles, Manchow Soup, Golden Fried Prawns, Lamb","Chinese, Momos, Thai, Vietnamese",900,Dine-out
+Vietnamese Kitchen,Yes,No,3.6/5,105,Banashankari,Casual Dining,"Pho, Papaya Salad, Coffee, Veg Momos, Rolls",Vietnamese,700,Dine-out
+Blue Wings Bar & Restaurant,No,No,3.7/5,43,Banashankari,"Bar, Casual Dining",,"North Indian, Chinese",700,Dine-out
+Anand Sweets and Savouries,No,No,3.7/5,46,Banashankari,"Sweet Shop, Quick Bites",,"Mithai, Street Food",400,Dine-out
+Catch-up-ino,Yes,No,3.9/5,133,Banashankari,Cafe,"Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi","Cafe, Fast Food, Continental, Chinese, Momos",800,Dine-out
+Kirthi's Biryani,Yes,No,3.8/5,144,Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Dine-out
+T3H Cafe,No,No,3.9/5,93,Banashankari,Cafe,"Cheese Maggi, Peri Peri Fries, Pasta Arrabiata","Cafe, Italian, American",300,Dine-out
+Srikrishna Bhavan,Yes,No,3.8/5,42,Banashankari,Quick Bites,"Roti, Masala Dosa","South Indian, North Indian, Chinese",300,Dine-out
+Dal Tadkaa,Yes,No,2.5/5,247,Banashankari,Casual Dining,"Paratha, Boondi Raita, Roti, Kulfi, Panneer Butter Masala, Sweet Lassi, Dal Tadka",North Indian,500,Dine-out
+360 Atoms Restaurant And Cafe,Yes,No,3.1/5,13,Banashankari,Cafe,,"Cafe, Chinese, Continental, Italian",400,Dine-out
+New Imperial Restaurant,No,No,3.7/5,39,Banashankari,Casual Dining,,"North Indian, Chinese",450,Dine-out
+The Vintage Cafe,Yes,No,3.0/5,62,Banashankari,Cafe,"Burgers, Caramel Milkshake, Iced Coffee, Iced Tea","Cafe, French, North Indian",400,Dine-out
+Green Gardenia,Yes,No,3.8/5,160,Banashankari,Casual Dining,"Masala Papad, Paneer Satay, Paneer Hyderabadi, Butter Naan, Roti","North Indian, Chinese",700,Dine-out
+Parimala Sweets,No,No,3.5/5,14,Banashankari,Sweet Shop,,"Mithai, Street Food",200,Dine-out
+Vaishali Deluxe,No,No,3.8/5,42,Banashankari,Casual Dining,,"North Indian, Chinese",700,Dine-out
+Paradise Premium,Yes,No,3.1/5,119,Banashankari,Casual Dining,,"Biryani, Andhra, Hyderabadi, North Indian",700,Dine-out
+Kadala Tarangaa,Yes,No,3.6/5,129,Banashankari,Casual Dining,"Sea Food, Neer Dosa","Mangalorean, Seafood, North Indian",600,Dine-out
+My Tea House,Yes,Yes,NEW,0,Banashankari,Casual Dining,,"Continental, Asian, North Indian, Tea",500,Dine-out
+Vi Ra's Bar and Restaurant,No,No,3.3/5,62,Banashankari,Bar,Chilli Chicken,"South Indian, North Indian, Chinese",800,Dine-out
+Annapooraneshwari Mess,No,No,,0,Banashankari,Mess,,South Indian,200,Dine-out
+Sri Yaksha Shiv Sagar,Yes,No,3.6/5,24,Banashankari,Casual Dining,,"North Indian, Chinese",600,Dine-out
+7 Hills Restaurant,No,No,,0,Banashankari,Casual Dining,,"North Indian, South Indian",500,Dine-out
+Nandhini Deluxe,No,No,2.6/5,283,Banashankari,Casual Dining,"Biryani, Chicken Guntur, Thali, Buttermilk, Manchurian",North Indian,600,Dine-out
+Corner Stone,No,No,3.6/5,42,Banashankari,"Beverage Shop, Quick Bites",,"Beverages, Juices, Desserts, Italian",300,Dine-out
+Karavali Fish Center,No,No,3.4/5,10,Banashankari,Quick Bites,,"Mangalorean, Chinese",300,Dine-out
+Ayda Persian Kitchen,No,No,3.7/5,39,Banashankari,Casual Dining,,"North Indian, Iranian",950,Dine-out
+J Spice,Yes,No,3.8/5,59,Banashankari,Casual Dining,"Stuffed Mushroom, Chicken Biryani, Jal-jeera","North Indian, Chinese",750,Dine-out
+Swadesh Tadka,Yes,No,3.5/5,179,Banashankari,Casual Dining,"Gulab Jamun, Roti, Masala Papad, Babycorn Manchurian, Paratha, Clear Soup, Biryani","North Indian, Chinese, Beverages",600,Dine-out
+Iyer's Tiffin Centre,No,No,3.8/5,62,Banashankari,Quick Bites,"Kesari Bath, Masala Dosa","South Indian, Chinese",150,Dine-out
+Kydz Adda,No,No,3.4/5,6,Banashankari,Casual Dining,,Continental,500,Dine-out
+K27 - The Pub,No,No,3.1/5,30,Banashankari,Bar,,"Chinese, North Indian","1,000",Dine-out
+Kotian Karavali Restaurant,No,No,3.5/5,10,Banashankari,Quick Bites,,"South Indian, Biryani",300,Dine-out
+Food Box Cafe,No,No,3.6/5,36,Banashankari,Casual Dining,,"Mughlai, North Indian, Chinese",500,Dine-out
+Hide Out Cafe,No,No,3.7/5,31,Banashankari,Cafe,,Cafe,300,Dine-out
+Linnet Bar & Restaurant,No,No,,0,Banashankari,Bar,,"Fast Food, Finger Food",500,Dine-out
+CAFE NOVA,No,No,3.2/5,11,Banashankari,Cafe,,"Cafe, Bakery",600,Dine-out
+Darbar,No,No,3.0/5,98,Banashankari,Bar,"Paneer Tikka, Dal Kichadi, French Fries","North Indian, Chinese",800,Dine-out
+Sri Ganesh Juice and Chats,No,No,3.5/5,18,Banashankari,"Beverage Shop, Quick Bites",,"Juices, Street Food",150,Dine-out
+Manifest Cafe,No,No,3.5/5,10,Banashankari,Casual Dining,,"South Indian, North Indian, Chinese",500,Dine-out
+Beijing Bites,No,No,2.7/5,128,Banashankari,Casual Dining,"Cantonese Noodles, Basil Chicken, Hunan Chicken Gravy, Manchow Soup, Dragon Chicken, Chicken Grill","Chinese, Thai",850,Dine-out
+Karavali Lunch Home,No,No,,0,Banashankari,Quick Bites,,"South Indian, North Indian, Seafood, Mangalorean",400,Dine-out
+The Pizzeria,Yes,No,2.8/5,45,Banashankari,Casual Dining,Pesto Pizza,"Pizza, Italian, Salad",800,Dine-out
+Sri Krishna Sagar,Yes,No,3.2/5,119,Banashankari,Casual Dining,,"North Indian, Chinese",400,Dine-out
+Lassi Stop,Yes,No,3.4/5,12,Banashankari,"Beverage Shop, Quick Bites",,"Beverages, Fast Food, Juices",150,Dine-out
+Banashankari Nati Style,No,No,,0,Banashankari,Quick Bites,,"Biryani, Chinese, South Indian, North Indian",350,Dine-out
+Sea Green Cafe,No,No,3.3/5,4,Banashankari,Cafe,,"Cafe, Fast Food, Beverages",500,Dine-out
+Cafe Coffee Day,No,No,,0,Banashankari,Cafe,,"Cafe, Fast Food",900,Dine-out
+SLN Bar and Restaurant,No,No,,0,Banashankari,Casual Dining,,"North Indian, Chinese",700,Dine-out
+Kaumudis Juoice,No,No,,0,Banashankari,"Beverage Shop, Quick Bites",,"Beverages, Fast Food, Juices",150,Dine-out
+Parijatha Paradise,Yes,No,NEW,0,Banashankari,Casual Dining,,"South Indian, North Indian, Fast Food, Chinese, Street Food",500,Dine-out
+As On Fire,Yes,No,3.5/5,41,South Bangalore,Food Truck,Pizza,"Pizza, Fast Food, BBQ",400,Dine-out
+Pizza Hut,Yes,No,3.7/5,405,Banashankari,Casual Dining,"Pizza, Potato Wedges, Country Feast, Pasta, Garlic Bread, Lemonade","Pizza, Fast Food",750,Dine-out
+New Prashanth Hotel,Yes,No,3.9/5,388,Banashankari,Casual Dining,"Chicken Biryani, Ragi Mudde, Mutton Chops","Biryani, North Indian, Seafood, Andhra",650,Dine-out
+Taaza Thindi,No,No,4.7/5,651,Banashankari,Quick Bites,"Masala Dosa, Vada, Upma, Filter Coffee, Kesari Bath, Idli Chutney, Kharabath",South Indian,100,Dine-out
+Hyderabad Express,Yes,No,NEW,0,Banashankari,Quick Bites,,"Hyderabadi, Biryani, South Indian, Andhra, Beverages",300,Dine-out
+Ayodhya Upachar,Yes,No,4.3/5,734,Banashankari,Quick Bites,"Panneer Butter Masala, Vada, Curd Rice, Idli, Jeera Rice, Naan, Kulcha","South Indian, North Indian, Chinese, Street Food",200,Dine-out
+Petoo,No,No,3.7/5,21,Banashankari,Quick Bites,,North Indian,450,Dine-out
+Roving Feast,No,No,4.0/5,1047,Banashankari,Quick Bites,"Pasta, Momos, Rolls, Chicken Roll, Chilli Chicken, Paneer Roll, Spaghetti","Italian, Continental, Fast Food, Chinese, Momos",450,Dine-out
+KFC,Yes,No,3.8/5,505,Banashankari,Quick Bites,"Burgers, French Fries","Burger, Fast Food",450,Dine-out
+Five Star Chicken,No,No,3.6/5,55,Banashankari,Quick Bites,,"Fast Food, Burger",200,Dine-out
+Gama Gama,Yes,No,3.9/5,264,Banashankari,Quick Bites,"Jowar Roti, Buttermilk, Sabudana Vada, Thali, Mirchi Bajji, Brinjal Curry",South Indian,200,Dine-out
+Hotel New Karavali,Yes,No,3.8/5,133,Banashankari,Quick Bites,,"Mangalorean, South Indian, North Indian",300,Dine-out
+Kaapi Corner,No,No,NEW,0,Banashankari,Quick Bites,,South Indian,100,Dine-out
+McDonald's,Yes,No,3.9/5,286,Banashankari,Quick Bites,"Burgers, Fries, Hot Chocolate","Burger, Fast Food",500,Dine-out
+Sri Laxmi Venkateshwara Coffee Bar,No,No,4.4/5,343,Banashankari,Quick Bites,"Masala Dosa, Idli Chutney, Kharabath, Filter Coffee, Kesari Bath, Idli Vada, Maddur Vada",South Indian,100,Dine-out
+Bhattara Bhojana,Yes,No,3.6/5,66,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Davanagere Benne Dose Hut,Yes,No,3.4/5,10,Banashankari,Quick Bites,,South Indian,100,Dine-out
+Utsav Restaurant,Yes,No,3.8/5,61,Banashankari,Quick Bites,,"North Indian, Chinese",300,Dine-out
+Messy Bowl,No,No,3.8/5,70,Banashankari,Quick Bites,"Tandoori Maggi, Paneer Sizzler, Pasta, Pizza, Butter Garlic Fries, Peri Peri Maggi, Garlic Maggi","Fast Food, Beverages",500,Dine-out
+Devanna Dum Biriyani Centre,Yes,No,3.6/5,28,Banashankari,Quick Bites,,"Biryani, South Indian",300,Dine-out
+Janahaar,Yes,No,3.8/5,70,Banashankari,Quick Bites,"Masala Dosa, Idli, Filter Coffee, Medu Dosa",South Indian,100,Dine-out
+Stop 'N' Joy,Yes,No,3.8/5,28,Banashankari,Quick Bites,,Fast Food,150,Dine-out
+Dodda Mane Baaduta,Yes,No,3.5/5,15,Banashankari,Quick Bites,,"North Indian, South Indian, Chinese, Biryani",250,Dine-out
+Chickpet Donne Biryani House,Yes,No,3.8/5,131,Banashankari,Quick Bites,,Biryani,250,Dine-out
+Brahmin Cafe,No,No,3.8/5,19,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Chumma Delicious,Yes,No,3.7/5,237,Banashankari,Quick Bites,Chicken Biryani,"South Indian, Fast Food",200,Dine-out
+Udupi Upachar,Yes,No,3.3/5,6,Banashankari,Quick Bites,,"South Indian, North Indian",500,Dine-out
+Bengaluru Coffee House,Yes,No,4.1/5,201,Banashankari,Quick Bites,"Masala Dosa, Tirupathi Pongal, Filter Coffee, Vada, Kharabath, Kali Dosa, Rava Idli","South Indian, North Indian, Chinese, Street Food",300,Dine-out
+Foodiction,Yes,No,2.8/5,506,Banashankari,Quick Bites,"Burgers, Lassi, Chicken Grill, Naan, Momos, Chicken Burger, Biryani","North Indian, Fast Food, Chinese, Burger",500,Dine-out
+The Biryani Cafe,No,No,4.1/5,520,Banashankari,Quick Bites,"Vegetable Biryani, Ginger Chicken, Chicken Biryani, Donne Biryani, Chicken Kebab, Egg Bhurji, Dum Biryani","Biryani, Chinese, Kebab",300,Dine-out
+Spicy Tandoor,No,No,NEW,0,Banashankari,Quick Bites,,North Indian,150,Dine-out
+Banashankari Donne Biriyani,Yes,No,3.8/5,104,Banashankari,Quick Bites,,"Biryani, Fast Food",300,Dine-out
+Addhuri Udupi Bhojana,No,No,3.7/5,88,Banashankari,Quick Bites,Masala Dosa,"South Indian, North Indian",300,Dine-out
+Vasanth Vihar - Since 1965,Yes,No,3.6/5,95,Banashankari,Quick Bites,,"South Indian, Street Food",150,Dine-out
+Subway,Yes,No,3.7/5,136,Banashankari,Quick Bites,"Veggie Delight, Paneer Tikka, Salad","Salad, Fast Food",600,Dine-out
+SGS Non Veg - Gundu Pulav,Yes,No,3.8/5,101,Banashankari,Quick Bites,,"Biryani, Fast Food",400,Dine-out
+Udupi Ruchi Grand,Yes,No,4.2/5,60,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",200,Dine-out
+Hotel Mangala,No,No,3.9/5,88,Banashankari,Quick Bites,"Khali Dosa, Kali Dosa, Masala Dosa, Vada Sambar",South Indian,250,Dine-out
+Simple Thindies,No,No,3.5/5,8,Banashankari,Quick Bites,,South Indian,200,Dine-out
+Rolls On Wheels,No,No,3.4/5,145,Banashankari,Quick Bites,,"Fast Food, Rolls, Momos",300,Dine-out
+Chilli Flakes,Yes,No,3.6/5,46,Banashankari,Quick Bites,,"Fast Food, Italian, Beverages",500,Dine-out
+Kababs N Biryani,Yes,No,3.4/5,22,Banashankari,Quick Bites,,South Indian,200,Dine-out
+Udupi Ruchi,Yes,No,3.9/5,57,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",200,Dine-out
+SLV Swadishta,No,No,3.8/5,189,Banashankari,Quick Bites,"Coffee, Jeera Rice, Masala Dosa, Neer Dosa",South Indian,300,Dine-out
+Kolbeh,No,No,3.7/5,22,Banashankari,Quick Bites,,Fast Food,500,Dine-out
+Kolkata Kathi Roll's,Yes,No,3.6/5,18,Banashankari,Quick Bites,,"Fast Food, Rolls",250,Dine-out
+Mylari Biryani Family Restaurant,Yes,No,3.7/5,73,Banashankari,Quick Bites,,"Biryani, Fast Food",400,Dine-out
+Upahar Sagar,No,No,3.8/5,39,Banashankari,Quick Bites,Masala Dosa,"South Indian, Chinese, North Indian",350,Dine-out
+Domino's Pizza,Yes,No,3.9/5,540,Banashankari,Quick Bites,"Pane Pizza, Lava Cake, Pasta, Stuffed Garlic Bread, Chocolava Cake, Tacos","Pizza, Fast Food",800,Dine-out
+New Sagar Fast Food,No,No,3.6/5,71,Banashankari,Quick Bites,"Vegetable Biryani, Masala Dosa, Kulcha, Masala Papad, Tomato Soup","North Indian, South Indian",250,Dine-out
+Namma Biryani,Yes,No,3.6/5,24,Banashankari,Quick Bites,,"Biryani, Chinese, North Indian",250,Dine-out
+Chill Out,No,No,,0,Banashankari,Quick Bites,,"South Indian, Chinese",100,Dine-out
+Parama Ruchi,No,No,3.5/5,11,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",300,Dine-out
+Thrilok Restaurant,No,No,3.4/5,9,Banashankari,Quick Bites,,"Mangalorean, Seafood",350,Dine-out
+Meat And Eat,No,No,3.5/5,12,Banashankari,Quick Bites,,"Fast Food, Burger",500,Dine-out
+Ande Ka Funda,Yes,No,3.8/5,120,Banashankari,Quick Bites,,"North Indian, Fast Food, Rolls",250,Dine-out
+Dakshin Grand,Yes,No,3.0/5,82,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese, Street Food",300,Dine-out
+Chicken Hunt,Yes,No,3.5/5,88,Banashankari,Quick Bites,Chicken Grill,"South Indian, North Indian, Chinese, Biryani",350,Dine-out
+7 Hills Garden Restaurant,Yes,No,,0,Banashankari,Quick Bites,,"North Indian, Mughlai, Chinese",400,Dine-out
+Maruthi Davangere Benne Dosa,Yes,No,4.0/5,17,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Shri Guru Raghavendra Grand Veg,No,No,NEW,0,Banashankari,Quick Bites,,"South Indian, North Indian, Chinese",400,Dine-out
+Pizza Stop,Yes,No,3.0/5,87,Banashankari,Quick Bites,"Garlic Bread, Pasta, Nachos, Salsa, Thin Crust Pizza","Pizza, Italian",600,Dine-out
+Madhappa Hindu Military Hotel,Yes,No,3.4/5,14,Banashankari,Quick Bites,,South Indian,300,Dine-out
+Krishna Sagar,No,No,3.5/5,31,Banashankari,Quick Bites,,North Indian,200,Dine-out
+Hanumanthanagar Biryani Junction,No,No,3.5/5,17,Banashankari,Quick Bites,,South Indian,300,Dine-out
+Faasos,Yes,No,4.2/5,415,Banashankari,Quick Bites,"Rolls, Veggie Wrap, Chocolate Fantasy, Rice Bowls, Chicken Rice, Paneer Makhanwala, Chicken Tikka Wrap","North Indian, Biryani, Fast Food",500,Dine-out
+Rasoi,Yes,No,3.3/5,128,Banashankari,Quick Bites,"Lassi, Panneer Butter Masala, Paratha, Thali","North Indian, Chinese",300,Dine-out
+SLV Refreshment,No,No,4.1/5,94,Banashankari,Quick Bites,"Coffee, Masala Dosa, Kharabath, Idli Vada, Kesari Bath",South Indian,100,Dine-out
+Kaggis,No,No,3.8/5,64,Banashankari,Quick Bites,,"Fast Food, Bakery",250,Dine-out
+Chatar Patar,No,No,3.7/5,65,Banashankari,Quick Bites,"Panipuri, Chaat, Noodles, Dahi Bhalle","Fast Food, Street Food",300,Dine-out
+Seven Star,Yes,No,3.4/5,7,Banashankari,Quick Bites,,"North Indian, Chinese",250,Dine-out
+SVKP Daily Fresh,No,No,3.3/5,5,Banashankari,Quick Bites,,South Indian,350,Dine-out
+Kidambi's Kitchen,No,No,3.5/5,52,Banashankari,Quick Bites,Rooftop Ambience,South Indian,300,Dine-out
+Ruchi's Corner,Yes,No,2.7/5,123,Banashankari,Quick Bites,,Fast Food,200,Dine-out
+Tandoori Knight,Yes,No,3.0/5,290,Banashankari,Quick Bites,"Chicken Grill, Biryani, Roti, Chicken Masala","North Indian, Chinese, Biryani, Kebab",450,Dine-out
+Utsav,Yes,No,3.7/5,59,Banashankari,Quick Bites,"Paratha, Kachori, Tea, Lassi, Samosa, Vada Pav","North Indian, Street Food",200,Dine-out
+Mane Thindi,No,No,3.7/5,130,Banashankari,Quick Bites,"Coffee, Tea, Kesari Bath, Open Dosa, Vada, Idli, Bread Dosa",South Indian,200,Dine-out
+Fast And Fresh,Yes,No,2.8/5,91,Banashankari,Quick Bites,,"North Indian, Chinese, Fast Food",400,Dine-out
+New Gowda's Fried Chicken,Yes,No,3.3/5,12,Banashankari,Quick Bites,,Biryani,300,Dine-out
+Juicy Momos,Yes,No,3.5/5,80,Banashankari,Quick Bites,"Rolls, Burgers, Juicy Momos, Chicken Momo, Chocolate Momos, Mushroom Momo, Paneer Momos","Tibetan, Momos",250,Dine-out
+Donne Biriyani House,Yes,No,3.9/5,441,Banashankari,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Biryani",400,Dine-out
+Srinagar Kabab Corner,No,No,3.4/5,10,Banashankari,Quick Bites,,North Indian,250,Dine-out
+Sri Venkateshwara Chat Centre,No,No,3.5/5,12,Banashankari,Quick Bites,,Street Food,100,Dine-out
+Vinay Bhel Corner,No,No,3.4/5,7,Banashankari,Quick Bites,,Street Food,100,Dine-out
+Spice 9,No,No,3.4/5,8,Banashankari,Quick Bites,,"Biryani, North Indian, Chinese, Fast Food",300,Dine-out
+Roti Land,No,No,,0,Banashankari,Quick Bites,,North Indian,200,Dine-out
+Naveen Kabab & Biriyani Mane,No,No,3.2/5,9,Banashankari,Quick Bites,,Biryani,300,Dine-out
+Nandi Chats and Juice,No,No,3.6/5,47,Banashankari,Quick Bites,,Street Food,150,Dine-out
+Atithi Point Ande Ka Funda,No,No,3.1/5,29,Banashankari,Quick Bites,,North Indian,150,Dine-out
+Yaarub Hotel,No,No,,0,Banashankari,Quick Bites,,Biryani,250,Dine-out
+Aarush's Food Plaza,No,No,,0,Banashankari,Quick Bites,,"North Indian, Street Food",200,Dine-out
+Rotti Mane,No,No,,0,Banashankari,Quick Bites,,South Indian,100,Dine-out
+Karnataka Bhel House,No,No,,0,Banashankari,Quick Bites,,Street Food,150,Dine-out
+Kannadigas Karavali,No,No,,0,Banashankari,Quick Bites,,"Mangalorean, South Indian, North Indian",250,Dine-out
+The Coorg Kitchen,No,No,,0,Banashankari,Quick Bites,,South Indian,400,Dine-out
+Just Shawarma,Yes,No,3.8/5,66,Banashankari,Quick Bites,,Arabian,300,Dine-out
+Aramane Donne Biryani,Yes,No,3.1/5,28,Banashankari,Quick Bites,,Biryani,200,Dine-out
+FOOD ADDA,No,No,3.2/5,4,Banashankari,Quick Bites,,Fast Food,200,Dine-out
+New Mangalore Lunch Home,No,No,3.3/5,7,Banashankari,Quick Bites,,"Mangalorean, South Indian, North Indian",200,Dine-out
+Hotel Nisarga,No,No,3.2/5,5,Banashankari,Quick Bites,,"North Indian, South Indian",250,Dine-out
+Coffee Bytes,No,No,3.1/5,6,Banashankari,Quick Bites,,"Fast Food, South Indian",100,Dine-out
+Parjanya Chat Zone,No,No,3.3/5,17,Banashankari,Quick Bites,,"Street Food, Fast Food",200,Dine-out
+Yo Roll Corner,No,No,3.0/5,27,Banashankari,Quick Bites,,"Street Food, Rolls",200,Dine-out
+New Quality Dum Biryani,No,No,3.1/5,9,Banashankari,Quick Bites,,Biryani,200,Dine-out
+Sri Lakshmi Kabab Center,No,No,3.3/5,4,Banashankari,Quick Bites,,Kebab,200,Dine-out
+Cueferia A-Cafe,No,No,,0,Banashankari,Quick Bites,,"North Indian, South Indian, Fast Food, Chinese, Italian",400,Dine-out
+Sri Basaveshwar Jolada Rotti Oota,No,No,,0,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Dtink Lab,No,No,NEW,0,Banashankari,Quick Bites,,"Beverages, Sandwich",80,Dine-out
+Shree Udupi South kitchen,No,No,NEW,0,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Foodlieious Multi Cuisine,No,No,NEW,0,Banashankari,Quick Bites,,North Indian,100,Dine-out
+Tasty Bites,No,No,3.7/5,21,Banashankari,Quick Bites,,"Fast Food, Pizza",150,Dine-out
+Raams Chicken,No,No,3.6/5,22,Banashankari,Quick Bites,,Andhra,300,Dine-out
+Panchami,No,No,3.0/5,15,Banashankari,Quick Bites,,"North Indian, Chinese",300,Dine-out
+Bangalore Kabab Palace,No,No,,0,Banashankari,Quick Bites,,"Andhra, Biryani",150,Dine-out
+Hotel Andhra Speices,No,No,,0,Banashankari,Quick Bites,,Andhra,250,Dine-out
+Quality Dum Biriyani,No,No,,0,Banashankari,Quick Bites,,"Biryani, Kebab",150,Dine-out
+Sri Murari Family Restaurant,No,No,,0,Banashankari,Quick Bites,,Biryani,250,Dine-out
+Taja Coffee,No,No,,0,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Aramane Donne Biriyani,No,No,,0,Banashankari,Quick Bites,,"South Indian, Biryani",150,Dine-out
+Swaada Healthy Kitchen,No,No,,0,Banashankari,"Quick Bites, Beverage Shop",,"Healthy Food, Juices, Sandwich",350,Dine-out
+New Prakash Hotel,No,No,,0,Banashankari,Quick Bites,,South Indian,250,Dine-out
+Gawdaru Mane Beriyani,No,No,,0,Banashankari,Quick Bites,,"South Indian, Biryani",300,Dine-out
+Kings Court Daba,No,No,,0,Banashankari,Quick Bites,,"Chinese, North Indian",450,Dine-out
+MM Tiffen Center,No,No,,0,Banashankari,Quick Bites,,"South Indian, Fast Food",150,Dine-out
+Sri Raghavendra Prasanna Coffee Beans Club,No,No,NEW,0,Banashankari,Quick Bites,,South Indian,150,Dine-out
+Sri Balaji Tiffin Centre,No,No,NEW,0,Banashankari,Quick Bites,,"South Indian, Chinese",300,Dine-out
+New Indraprasta,No,No,NEW,0,Banashankari,Quick Bites,,"South Indian, Beverages",150,Dine-out
+Sree Sagar,Yes,No,,0,Banashankari,Quick Bites,,South Indian,200,Dine-out
+VEGeatz,Yes,No,3.4/5,19,Banashankari,Quick Bites,,"South Indian, North Indian",200,Dine-out
+Grand Food,Yes,No,3.4/5,8,Banashankari,"Quick Bites, Bakery",,"South Indian, Bakery, Chinese",250,Dine-out
+The House Of Vadapav,Yes,No,,0,Banashankari,Quick Bites,,,150,Dine-out
+Matru Sagar,Yes,No,3.6/5,84,Banashankari,Quick Bites,"Coffee, Masala Dosa","South Indian, North Indian, Chinese",250,Dine-out
+Kavali,No,No,4.0/5,42,Banashankari,Quick Bites,"Cheese Dosa, Chocolate Dosa, Corn Dosa, Pesarattu, Bread Dosa","South Indian, Street Food",300,Dine-out
+Bitez,No,No,NEW,0,Banashankari,Quick Bites,,Fast Food,100,Dine-out
+Bunt's Biriyani Palace,Yes,No,3.0/5,213,Banashankari,Quick Bites,"Neer Dosa, Sea Food, Pepper Chicken","North Indian, South Indian, Chinese, Biryani, Seafood",400,Dine-out
+Funjabi Curries,Yes,No,2.9/5,11,Banashankari,Quick Bites,,North Indian,500,Dine-out
+Udupi Upahar,Yes,No,3.8/5,58,Banashankari,Quick Bites,,"South Indian, Chinese, North Indian, Juices",300,Dine-out
+Ranganna Military Hotel,No,No,4.2/5,725,Jayanagar,Quick Bites,"Mutton Biryani, Mutton Chops, Chicken Biryani, Chicken Fry, Paya, Mutton Fry, Chilli Chicken","South Indian, Biryani",350,Dine-out
+Roti Ghar,Yes,No,3.9/5,750,Basavanagudi,Casual Dining,"Coffee, Spring Roll, Roti, Panneer Butter Masala, Noodles, Butter Naan, Masala Dosa","North Indian, Chinese, South Indian",500,Dine-out
+Grand Village,No,No,3.8/5,166,Basavanagudi,Casual Dining,"Panipuri, Gol Gappe","North Indian, Rajasthani",600,Dine-out
+Vidyarthi Bhavan,No,No,4.4/5,4460,Basavanagudi,Quick Bites,"Filter Kaapi, Filter Coffee, Khara Bhath, Maddur Vada, Crispy Masala Dosa, Kesari Bath, Ghee Masala Dosa",South Indian,150,Dine-out
+Bharjari Oota,No,No,3.9/5,153,Basavanagudi,Casual Dining,"Curd Rice, Coriander Soup, Masala Dosa, Biryani, Thali",South Indian,350,Dine-out
+Gokul Veg,Yes,No,3.8/5,469,Basavanagudi,Casual Dining,"Masala Papad, Paneer Satay, Vegetable Biryani, Panneer Butter Masala, Tomato Soup, Manchow Soup, Roti","North Indian, Chinese, Beverages",750,Dine-out
+SLV Corner Restaurant,Yes,No,4.1/5,364,Basavanagudi,Casual Dining,"Masala Dosa, Filter Coffee, Maddur Vada, Curd Vadai, Onion Dosa, Upma, Sunday Breakfast","South Indian, Chinese, North Indian, Street Food, Rolls, Juices",550,Dine-out
+Timepass Dinner,Yes,No,3.8/5,286,Basavanagudi,Casual Dining,"Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice",North Indian,600,Dine-out
+Baisakhi,Yes,No,3.8/5,527,Basavanagudi,Casual Dining,"Masala Chaach, Tomato Shorba, Gajar Ka Halwa, Biryani, Deluxe Punjabi Thali, Rajma, Paneer Tikka Masala",North Indian,500,Dine-out
+Eat Repeat,Yes,No,3.9/5,101,Basavanagudi,Quick Bites,"Sweet Pongal, Curd Rice",South Indian,150,Dine-out
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1/5,558,Basavanagudi,Quick Bites,"Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa",South Indian,150,Dine-out
+Bridgeway,No,No,3.8/5,94,Mysore Road,Casual Dining,,"North Indian, Chinese",550,Dine-out
+Srinathji's Cafe,No,No,3.8/5,148,Basavanagudi,"Casual Dining, Cafe","Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda","North Indian, Cafe, Chinese, Fast Food",550,Dine-out
+Soho Bar & Grill,No,No,2.7/5,377,Basavanagudi,Pub,"Thai Chicken, Chicken Lollipop, Cocktails, Jeera Rice, Rolls, Draught Beer, French Fries","North Indian, Chinese, Thai","1,100",Dine-out
+Kollapuri's,No,No,3.9/5,206,Basavanagudi,Quick Bites,"Chicken Biryani, Mutton Biryani, Egg Biryani, Chicken Fry, Mutton Fry","South Indian, Mangalorean",450,Dine-out
+Aadhya Hotel,Yes,No,3.3/5,5,Basavanagudi,"Casual Dining, Bar",,"South Indian, North Indian, Chinese, Biryani",800,Dine-out
+Bhavani Restaurant,No,No,3.9/5,100,Basavanagudi,Quick Bites,"Coffee, Vada, Curd Rice, Ghee Roast Paneer, Thali","South Indian, North Indian, Chinese",300,Dine-out
+Puliyogare Point,Yes,No,4.2/5,444,Basavanagudi,Quick Bites,"Sweet Pongal, Mini Idlis, Filter Coffee, Open Masala Dosa, Pakoda, Vada, Raagi Dosa",South Indian,100,Dine-out
+Zephyr,No,No,3.9/5,133,Basavanagudi,Casual Dining,"Chilli Paneer Pizza, Mocktails, French Fries, White Sauce Pasta, Nachos, Manchurian","Italian, Continental",650,Dine-out
+Redberrys,Yes,No,4.0/5,219,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Dine-out
+Hotel Dwarka,No,No,4.2/5,253,Basavanagudi,Quick Bites,"Khali Dosa, Kali Dosa, Upma, Filter Coffee, Kesari Bath, Set Dosa, Masala Dosa",South Indian,250,Dine-out
+Nisarga Garden Restaurant,No,No,3.4/5,51,Basavanagudi,Quick Bites,,"South Indian, Chinese, Desserts, Beverages",350,Dine-out
+Ma-Arya Family Restaurant,No,No,3.7/5,61,Basavanagudi,Casual Dining,"Mutton Biryani, Crispy Fried Chicken","Biryani, South Indian, North Indian, Chinese, Andhra",600,Dine-out
+A2B - Adyar Ananda Bhavan,Yes,No,3.8/5,155,Mysore Road,Casual Dining,"Pav Bhaji, Masala Dosa, Idli Vada, Filter Coffee, Pongal, Curd Rice, Kesari Bath","South Indian, Fast Food, Street Food",400,Dine-out
+Ragoo's,Yes,No,3.9/5,233,Jayanagar,Casual Dining,"Corn Augratin, Lasagne, Fries, Garlic Bread, Pili Pili Pizza, Mexican Rice, Ravioli","Italian, Pizza, North Indian, Salad",800,Dine-out
+Imperial Restaurant,Yes,No,3.7/5,264,Mysore Road,Casual Dining,"Kadhai Paneer, Ghee Rice, Chicken Grill, Shawarma, Paratha, Biryani, Butter Chicken","North Indian, Chinese, Biryani, Beverages",750,Dine-out
+New Prashanth Hotel,No,No,3.9/5,66,Basavanagudi,Casual Dining,,South Indian,400,Dine-out
+Udupi Sri Krishna Bhavan,No,No,4.1/5,238,Basavanagudi,Quick Bites,"Masala Dosa, Vada, Obbattu, Badam Milk, Khara Bhath, Coffee, Puri Saagu",South Indian,600,Dine-out
+Chinese Kitchen,Yes,No,3.8/5,58,Basavanagudi,Quick Bites,,Chinese,150,Dine-out
+Vijayalakshmi,Yes,No,3.9/5,47,Basavanagudi,Quick Bites,,South Indian,200,Dine-out
+Nammura Donne Biriyani,Yes,No,3.5/5,155,Basavanagudi,Quick Bites,,"Biryani, Fast Food",400,Dine-out
+Curry Leaves,Yes,No,4.1/5,176,Basavanagudi,Casual Dining,"Brownie, Mojito, Prawn Ghee Roast, Corn Tikki, Mushroom Ghee Roast, Pinacolada, Biryani","Andhra, North Indian, Chinese",800,Dine-out
+Goli Vada Pav No. 1,Yes,No,3.7/5,93,Basavanagudi,Quick Bites,"Masala Vada Pav, Cheese Vada Pav, Fries",Street Food,200,Dine-out
+Ice Thunder,No,No,3.8/5,124,Basavanagudi,Quick Bites,"Masala Poori, Rumali Roti, Sandwiches, Chaat, Burgers","South Indian, Fast Food, North Indian, Desserts",300,Dine-out
+South Kitchen,Yes,No,4.3/5,275,Basavanagudi,Quick Bites,"Kharabath, Crispy Vada, Filter Coffee, Idli Vada, Idli Chutney, Kesari Bath, Gulab Jamun",South Indian,100,Dine-out
+Upahara Darshini,No,No,4.2/5,254,Basavanagudi,Quick Bites,"Masala Dosa, Vada, Set Dosa, Filter Coffee, Raita, Idli Sambar, Crispy Dosa",South Indian,150,Dine-out
+Mahalaxmi Tiffin Room,No,No,4.1/5,177,Basavanagudi,Quick Bites,"Filter Coffee, Rava Idli, Kali Dosa, Carrot Halwa, Idli Vada, Vada Sambar, Bonda",South Indian,100,Dine-out
+Starlite Bakery & Fastfood,Yes,No,3.7/5,23,Jayanagar,Quick Bites,,"North Indian, Chinese, Rolls, Bakery, Arabian, Charcoal Chicken, Desserts",300,Dine-out
+Sandwichwallas,Yes,No,4.0/5,132,Basavanagudi,Quick Bites,"Sandwiches, Veg Burger, Pizza Sandwich, Burgers, French Fries, Wedges, Club Sandwich",Fast Food,200,Dine-out
+J K Fish Land,Yes,No,3.6/5,35,Jayanagar,Quick Bites,,"Seafood, Mangalorean",300,Dine-out
+Udupi Grand,Yes,No,3.8/5,74,Basavanagudi,Quick Bites,"Coffee, Masala Dosa, Vegetable Biryani","South Indian, North Indian, Chinese",300,Dine-out
+Chinese Square,Yes,No,3.9/5,38,Basavanagudi,Quick Bites,,Chinese,200,Dine-out
+Castle Rock,Yes,No,3.6/5,172,Uttarahalli,Casual Dining,Biryani,"North Indian, Chinese",700,Dine-out
+Swadd Kitchen,Yes,No,3.4/5,4,Basavanagudi,Casual Dining,,"North Indian, Fast Food",500,Dine-out
+Right Pizza,Yes,No,NEW,0,Basavanagudi,Quick Bites,,Pizza,300,Dine-out
+Kamat Bugle Rock,Yes,No,3.9/5,543,Basavanagudi,Quick Bites,"Jowar Roti, Buttermilk, Jolada Rotti, Brinjal Curry, Coffee, Pongal, Vegetable Biryani","South Indian, Fast Food",300,Dine-out
+Basavanagudi Mylari,No,No,4.0/5,52,Basavanagudi,Quick Bites,"Coffee, Idli, Masala Dosa, Sagu Dosa, Kesari Bath, Kharabath, Plain Dosa",South Indian,300,Dine-out
+RS Shiv Sagar,No,No,3.7/5,217,Basavanagudi,Casual Dining,"Chaat, Brownie, Onion Rings, Tomato Soup, Paneer Manchurian, Thali, Faluda","North Indian, Chinese, South Indian, Fast Food, Juices",450,Dine-out
+New Prashanth Hotel,No,No,2.9/5,34,Basavanagudi,Casual Dining,,"South Indian, Biryani, Chinese, North Indian",750,Dine-out
+Shrinidhi Military Hotel,No,No,3.3/5,6,Basavanagudi,Quick Bites,,"North Indian, Mughlai",300,Dine-out
+Dakshin Kitchen,Yes,No,3.6/5,15,Basavanagudi,Quick Bites,,South Indian,100,Dine-out
+Pramukh Family Restaurant,No,No,3.9/5,111,Basavanagudi,Casual Dining,"Murgh Ghee Roast, Malai Kofta, Butter Chicken, Donne Biryani, Cocktails, Palak Rice, Masala Peanuts","North Indian, Chinese, Mughlai",700,Dine-out
+Chaatimes,Yes,No,3.8/5,133,Basavanagudi,Quick Bites,"Dabeli, Faluda, Masala Poori, Sandwiches, Tokri Chaat, Pav Bhaji, Dahipuri","Street Food, Fast Food",200,Dine-out
+Vybhava,No,No,3.8/5,39,Jayanagar,Quick Bites,"Masala Dosa, Idli, Vada Sambar","South Indian, North Indian",250,Dine-out
+Shree Venkateshwara North Karnataka Hotel,No,No,4.0/5,64,Basavanagudi,Quick Bites,"Buttermilk, Jolada Rotti",South Indian,200,Dine-out
+Kadamba Classic,No,No,3.6/5,16,Mysore Road,Quick Bites,,South Indian,300,Dine-out
+Food Geek,Yes,No,3.8/5,25,Basavanagudi,Quick Bites,,"Sandwich, Fast Food, Rolls",350,Dine-out
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6/5,8,Mysore Road,Casual Dining,,"North Indian, South Indian, Andhra, Chinese",800,Dine-out
+Anand Sagar Inn,No,No,3.3/5,6,Basavanagudi,Casual Dining,,"South Indian, North Indian, Chinese",450,Dine-out
+Sangam Military Hotel,No,No,3.2/5,14,Jayanagar,Quick Bites,,South Indian,250,Dine-out
+Kholi Mane,No,No,3.6/5,46,Basavanagudi,Quick Bites,,"Andhra, South Indian, Biryani, North Indian",450,Dine-out
+Harshi Super Sandwich,No,No,3.8/5,148,Basavanagudi,Quick Bites,"Sandwiches, Chocolate Sandwich, Chaat, Veg Cheese Sandwich, Chilli Cheese, Corn Sandwich","Fast Food, Street Food",150,Dine-out
+Hotel Pork Paradise,Yes,No,3.7/5,21,Mysore Road,Quick Bites,,South Indian,300,Dine-out
+Pallavi Bar & Restaurant,No,No,NEW,0,Mysore Road,"Casual Dining, Bar",,"North Indian, South Indian, Chinese",550,Dine-out
+Belly Squad Food Truck,No,No,3.8/5,55,South Bangalore,Food Truck,"Biryani, Momos, Rolls","Chinese, Rolls, Biryani, Momos",300,Dine-out
+Tejas Bar and Restaurant,No,No,,0,Nagarbhavi,Casual Dining,,"Chinese, South Indian",800,Dine-out
+Old Days North Indian Restaurant,No,No,,0,Basavanagudi,Casual Dining,,North Indian,450,Dine-out
+New Rajadhani Spicy,Yes,No,3.7/5,67,Kumaraswamy Layout,Casual Dining,,North Indian,700,Dine-out
+Matru Sagar,Yes,No,3.7/5,31,Mysore Road,Quick Bites,,"South Indian, North Indian",300,Dine-out
+Sri Udupi Veg,No,No,3.3/5,4,Jayanagar,Quick Bites,,South Indian,250,Dine-out
+50-50 EATING HOUSE,No,No,3.2/5,4,Basavanagudi,Quick Bites,,"South Indian, Biryani",100,Dine-out
+Aahar Cafe,No,No,,0,Basavanagudi,Quick Bites,,South Indian,100,Dine-out
+Om Shiva Shakthi Chats Centre,No,No,3.9/5,26,Basavanagudi,Quick Bites,,"Street Food, Fast Food",300,Dine-out
+Juice Junction Food Court,Yes,No,3.7/5,57,Basavanagudi,Quick Bites,,"Juices, South Indian, Chinese, Fast Food",200,Dine-out
+Burger King,Yes,No,3.2/5,71,Basavanagudi,Quick Bites,,"Burger, Fast Food, Beverages",600,Dine-out
+Inchara Restaurant,Yes,No,,0,Basavanagudi,Quick Bites,,"North Indian, Chinese",300,Dine-out
+Rolls Corner,No,No,3.6/5,22,Basavanagudi,Quick Bites,,"Fast Food, Rolls",150,Dine-out
+Charisma's Matru Sagar,No,No,,0,Mysore Road,Quick Bites,,"South Indian, Chinese",150,Dine-out
+New Ambur Hot Dum Biryani,No,No,3.2/5,8,Mysore Road,Quick Bites,,Biryani,150,Dine-out
+Sticke2Waffles,No,No,NEW,0,Basavanagudi,Quick Bites,,"South Indian, Fast Food",100,Dine-out
+Nimmoora Thindi,No,No,,0,Mysore Road,Quick Bites,,"North Indian, South Indian",400,Dine-out
+Oasis Food Center,No,No,,0,Basavanagudi,Quick Bites,,Fast Food,150,Dine-out
+Godumana Moddha Hotel,No,No,,0,Mysore Road,Quick Bites,,Biryani,250,Dine-out
+Akash Gowdru Biryani Center,No,No,,0,Uttarahalli,Quick Bites,,"North Indian, Chinese",300,Dine-out
+New Sri Udupi Restaurant,No,No,,0,Jayanagar,Quick Bites,,"North Indian, South Indian, Chinese, Beverages, Fast Food",200,Dine-out
+Shri Vinayaka Ice N Juice,Yes,No,3.2/5,11,Basavanagudi,Quick Bites,,"Beverages, Fast Food",150,Dine-out
+Happy Chopsticks,Yes,No,3.6/5,17,Basavanagudi,Quick Bites,,"Chinese, Fast Food",300,Dine-out
+Ambur Dum Biriyani,No,No,NEW,0,Basavanagudi,Quick Bites,,Biryani,160,Dine-out
+Food Plaza,No,No,NEW,0,Basavanagudi,Quick Bites,,"South Indian, North Indian, Chinese",150,Dine-out
+Jcubez,No,Yes,3.8/5,977,Banashankari,Lounge,"Beer, Chicken Wings, Chilli Chicken, Onion Rings, Fries",Finger Food,"1,300",Drinks & nightlife
+Gustoes Beer House,No,No,4.1/5,868,Banashankari,Pub,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings","Continental, Italian, Mexican, North Indian, Chinese, Steak","1,200",Drinks & nightlife
+Blue Wings Bar & Restaurant,No,No,3.7/5,43,Banashankari,"Bar, Casual Dining",,"North Indian, Chinese",700,Drinks & nightlife
+Vi Ra's Bar and Restaurant,No,No,3.3/5,62,Banashankari,Bar,Chilli Chicken,"South Indian, North Indian, Chinese",800,Drinks & nightlife
+K27 - The Pub,No,No,3.1/5,30,Banashankari,Bar,,"Chinese, North Indian","1,000",Drinks & nightlife
+Linnet Bar & Restaurant,No,No,,0,Banashankari,Bar,,"Fast Food, Finger Food",500,Drinks & nightlife
+Darbar,No,No,3.0/5,98,Banashankari,Bar,"Paneer Tikka, Dal Kichadi, French Fries","North Indian, Chinese",800,Drinks & nightlife
+Soho Bar & Grill,No,No,2.7/5,377,Basavanagudi,Pub,"Thai Chicken, Chicken Lollipop, Cocktails, Jeera Rice, Rolls, Draught Beer, French Fries","North Indian, Chinese, Thai","1,100",Drinks & nightlife
+Deja Vu Resto Bar,Yes,Yes,4.4/5,2487,Bannerghatta Road,Pub,"Gajar Ka Halwa, Chilli Chicken, Hara Bhara Kebab, Custard, Brownie, Sev Puri, Pasta","North Indian, Italian",900,Buffet
+Fattoush,Yes,Yes,4.2/5,1964,Bannerghatta Road,Casual Dining,"Mango Chiller, Fattoush, Prawn, Salads, Vegetable Biryani, Irani Chicken Tikka, Chilli Chicken","Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood","1,000",Buffet
+Empire Restaurant,Yes,No,4.3/5,3178,Bannerghatta Road,Casual Dining,"Chicken Satay, Mutton Brain, Egg Biryani, Paneer Tikka Masala, Rolls, Lemon Chicken, Butter Chicken","North Indian, Mughlai, South Indian, Chinese",750,Buffet
+Abhiruchi Hotel,Yes,No,3.3/5,455,Bannerghatta Road,Casual Dining,"Egg Biryani, Chicken Curry, Chicken Boneless Biryani, Chilli Chicken, Vegetable Biryani, Jeera Rice","Andhra, Biryani, North Indian, Chinese",550,Buffet
+Tulips,No,No,3.1/5,19,Bannerghatta Road,Casual Dining,,"North Indian, South Indian, Chinese, Continental",800,Buffet
+Barbeque Nation,No,Yes,4.7/5,3845,JP Nagar,Casual Dining,"Lunch Buffet, Goan Fish Curry, Mocktails, Chicken Biryani, Cocktails, Paan Kulfi, Pasta","North Indian, European, Mediterranean, BBQ, Kebab","1,600",Buffet
+Sattvam,No,No,4.3/5,353,JP Nagar,Casual Dining,"Noodles, Veg Buffet, Mango Juice, White Pasta, Panipuri, Thin Crust Pizza, Dal Makhani","North Indian, South Indian","1,200",Buffet
+24th Main,No,Yes,4.1/5,1234,JP Nagar,Casual Dining,"Carrot Halwa, Paneer Satay, Manchow Soup, Gajar Ka Halwa, Butter Naan, Mocktails, Tandoori Mushrooms","North Indian, South Indian, Chinese",800,Buffet
+Zaitoon,Yes,Yes,4.1/5,1538,JP Nagar,Casual Dining,"Hummus Falafel, Gulab Jamun, Shawarma, Bbq Chicken, Mojito, Chicken Biryani, Manchow Soup","BBQ, Arabian, Chinese, North Indian, Desserts","1,000",Buffet
+Mango Greens,No,Yes,3.9/5,49,JP Nagar,Casual Dining,,"North Indian, Continental, Chinese",900,Buffet
+Oye Amritsar,Yes,Yes,3.8/5,756,JP Nagar,Casual Dining,"Lassi, Raita, Dal Makhani, Panneer Butter Masala, Jalebi, Biryani, Paneer Tikka",North Indian,"1,000",Buffet
+Melt - Eden Park,Yes,Yes,4.0/5,347,JP Nagar,Casual Dining,"Tandoori Chicken, Biryani, Paneer Tikka, Chicken Curry, Plain Rice, Cheese Naan, Malaysian Noodles","North Indian, Chinese, Thai, Mughlai, Seafood","1,000",Buffet
+Crave Bit Cafe,No,No,NEW,0,JP Nagar,Cafe,,Cafe,600,Buffet
+Spice Code,No,Yes,4.0/5,165,JP Nagar,Casual Dining,"Fries, Lunch Buffet, Appam, Manchow Soup, Paneer Tikka, Vegetable Stew, Biryani","South Indian, North Indian, Chinese, Biryani","1,000",Buffet
+The Onyx - The HHI Select Bengaluru,No,No,3.3/5,177,JP Nagar,Casual Dining,"Chaat, Custard, Fish, Pepper Chicken, Lunch Buffet, Chicken Tikka, Salads","North Indian, Chinese, Continental",950,Buffet
+The Pavillion,No,No,2.7/5,43,JP Nagar,Casual Dining,,"North Indian, Continental, South Indian, Chinese","1,000",Buffet
+Sankranthi Veg Restaurant,Yes,No,3.0/5,102,BTM,Casual Dining,"Tea, Vada Sambar, Masala Dosa","South Indian, North Indian, Chinese",600,Buffet
+Tisano Cafe,Yes,No,3.8/5,54,Bannerghatta Road,Cafe,,"Cafe, Fast Food, Chinese, Continental",500,Cafes
+Cafe Kabana,No,Yes,4.0/5,200,Bannerghatta Road,Cafe,"Mocktails, Peri Peri Chicken Pizza, Wings, Pasta, English Breakfast, Fries, Jalapeno Cheeseballs","Cafe, Continental",700,Cafes
+Butterly,Yes,No,3.9/5,102,Bannerghatta Road,Cafe,"Burgers, Sandwiches, Pizza, French Fries, Cheesecake","Cafe, Bakery, Beverages",450,Cafes
+Cafe Conico,No,No,NEW,0,Bannerghatta Road,Cafe,,"Cafe, Beverages",600,Cafes
+Black Mug Cafe,Yes,No,3.7/5,171,Bannerghatta Road,Cafe,Coffee,Cafe,300,Cafes
+#refuel,Yes,No,3.7/5,37,Bannerghatta Road,Cafe,"Thick Shakes, Sandwiches, Pasta, Mocktails","Cafe, Beverages",400,Cafes
+WAFL,Yes,No,3.9/5,40,Bannerghatta Road,Food Court,Waffles,"Cafe, Fast Food, Desserts, Beverages",400,Cafes
+Vaho Kafe & Pressery,No,No,3.9/5,125,Bannerghatta Road,Cafe,"Salad, Chicken Curry, Peri Peri Chicken, Thai Red Curry, Momos, Chicken Satay, Pasta","Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",500,Cafes
+Dreamcatcher,Yes,No,3.9/5,49,Bannerghatta Road,Cafe,"English Breakfast, Sandwiches",Cafe,600,Cafes
+Cafe Coffee Day,No,No,3.6/5,19,Bannerghatta Road,Cafe,,"Cafe, Fast Food",900,Cafes
+Cafe Arabica,No,No,3.8/5,69,Bannerghatta Road,"Cafe, Bakery","Coffee, French Fries, Lemon Tea, Veg Sandwich","Cafe, Bakery",700,Cafes
+Starbucks,No,No,3.9/5,52,Bannerghatta Road,Cafe,,"Cafe, Desserts",700,Cafes
+Smoor,Yes,No,3.6/5,18,Bannerghatta Road,Dessert Parlor,,"Desserts, Cafe, Beverages",900,Cafes
+Kalmane Koffees,No,No,3.9/5,78,Bannerghatta Road,Cafe,"Brownie, Filter Coffee",Cafe,350,Cafes
+Shee-Sha Cafe,No,Yes,3.6/5,39,Bannerghatta Road,"Cafe, Casual Dining",,"Cafe, North Indian, Chinese, Continental",800,Cafes
+Brews N Bites,Yes,No,2.7/5,48,Bannerghatta Road,"Quick Bites, Cafe",Thin Crust Pizza,"Chinese, Fast Food, Cafe, Street Food, Finger Food",650,Cafes
+D2V Cafe,No,No,3.6/5,13,Bannerghatta Road,Cafe,,Cafe,700,Cafes
+Wellness Cafe,No,No,,0,Bannerghatta Road,Cafe,,"Cafe, Healthy Food",400,Cafes
+Cafe Talk,No,No,3.3/5,14,Bannerghatta Road,"Cafe, Casual Dining",,"Cafe, Continental, North Indian, Bakery, Desserts",700,Cafes
+Cafe Choco Craze,No,No,3.7/5,9,Bannerghatta Road,Cafe,,"Cafe, Fast Food, Desserts",400,Cafes
+Healthy Smoothie,No,No,,0,Bannerghatta Road,Delivery,,"American, Bakery, Beverages, Cafe, Healthy Food, Juices, North Indian, Sandwich",300,Cafes
+Me N U,No,No,NEW,0,Bannerghatta Road,Quick Bites,,"Finger Food, Wraps, Cafe, Continental, Healthy Food",500,Cafes
+Slate Cafe,Yes,No,4.1/5,46,JP Nagar,Cafe,"Pasta, Sandwiches","Cafe, Sandwich, Burger",600,Cafes
+Dialogues,No,No,4.0/5,129,JP Nagar,Cafe,"Mayo Sandwich, Pasta, Egg Sandwich, Coffee, Potato Wedges, Vegetable Noodles, Fries","Cafe, Continental",600,Cafes
+Cafe Zuppa,Yes,No,NEW,0,JP Nagar,Cafe,,"Cafe, Pizza, Fast Food",450,Cafes
+Mudpipe Cafe,Yes,Yes,3.9/5,727,JP Nagar,Cafe,"Coffee, Pizza, Nachos, Kit Kat Shake, Garlic Bread, Mexican Rice, Burgers","Cafe, Continental, North Indian",800,Cafes
+Crave Bit Cafe,No,No,NEW,0,JP Nagar,Cafe,,Cafe,600,Cafes
+TAB - Take A Break,No,No,4.1/5,521,JP Nagar,Cafe,"Pizza, Salads, Pasta, Sandwiches, Veg Quiche, Coffee, Tea","Cafe, Continental, Italian",550,Cafes
+Biggies Burger 'n' More,Yes,No,4.1/5,203,JP Nagar,"Quick Bites, Cafe","Burgers, Mojito, Lamb Burger, French Fries, Hot Dog, Bbq Burger, Wedges","Cafe, Burger, Beverages",650,Cafes
+Onesta,Yes,Yes,4.4/5,4381,JP Nagar,"Casual Dining, Cafe","Chicken Alfredo Pizza, Coffee Mousse, Chicken Calzone, Banana Smoothie, Butter Chicken Pizza, Chocolate Pizza, Chicken Tikka Pizza","Pizza, Cafe, Italian",600,Cafes
+Cafe Potpourri,Yes,No,3.7/5,131,JP Nagar,Cafe,"Poha, Coffee, Pav Bhaji, Masala Chai, Sattu Paratha, Sandwich","Cafe, Sandwich, North Indian, Beverages, Desserts",400,Cafes
+De Oxford Cafe,No,No,3.7/5,34,JP Nagar,Cafe,,"Cafe, Beverages, Fast Food",500,Cafes
+Vinaya Coffee Moments,Yes,No,3.7/5,46,JP Nagar,Cafe,"Filter Coffee, Pizza, Pasta","Burger, Cafe, Desserts, Sandwich, Italian",450,Cafes
+Brew Point,Yes,No,3.6/5,10,JP Nagar,Cafe,,"Cafe, American, Burger, Sandwich, Fast Food",500,Cafes
+The Cravery,Yes,No,2.6/5,18,JP Nagar,Cafe,,"Continental, Burger, Beverages, Cafe, Italian, Rolls",500,Cafes
+Cuppa,No,No,3.4/5,48,JP Nagar,Cafe,"Coffee, Potato Wedges, Tea","Cafe, Fast Food",550,Cafes
+Anju's Cafe,No,No,3.4/5,6,JP Nagar,Cafe,,"Cafe, North Indian",600,Cafes
+Furry Fairy Paw Paradise,No,No,,0,JP Nagar,Cafe,,Cafe,500,Cafes
+Junkealth,No,No,,0,JP Nagar,Quick Bites,,"Healthy Food, Beverages, Cafe",300,Cafes
+Skytouch Le Cafe,Yes,No,3.7/5,127,JP Nagar,Cafe,"Pizza, Pasta, Bubble Tea, Brownie, Pancakes, Cheesy Garlic Bread, Chocolate Waffles","Cafe, Italian, Desserts",700,Cafes
+Woodee Pizza,Yes,No,2.7/5,85,JP Nagar,Cafe,"Pizza, Lemonade, Chilli Cheese Fries, Thick Shakes","Cafe, Pizza, Fast Food, Beverages",500,Cafes
+Hearts Unlock Cafe,No,No,3.2/5,11,BTM,Cafe,,"Cafe, Healthy Food",500,Cafes
+eat.fit,Yes,No,4.5/5,1178,BTM,Delivery,"Healthy Breakfast, Salads, Date Pudding, Chicken Curry, Hakka Noodles, Fruit Bowl, Dal Makhani","Healthy Food, North Indian, Biryani, Continental, Sandwich, Desserts",500,Delivery
+Sai Abhiruchi,Yes,No,3.7/5,335,BTM,Casual Dining,"Dum Biryani, Dal Fry, Paneer Biryani","Andhra, North Indian, Biryani",800,Delivery
+Capsicum Family Restaurant,Yes,No,3.8/5,254,BTM,Casual Dining,Mutton Biryani,"Biryani, North Indian",800,Delivery
+Box Magic,Yes,No,3.6/5,21,Bannerghatta Road,Quick Bites,,"North Indian, South Indian, Seafood, Rolls",400,Delivery
+Maa'r Rannaghor,Yes,No,3.8/5,20,JP Nagar,Quick Bites,,"Bengali, Chinese",400,Delivery
+Easy Bites,Yes,No,4.1/5,63,JP Nagar,"Takeaway, Delivery","Sandwich, Crispy Chicken, French Fries","Fast Food, Sandwich",300,Delivery
+Hiyar Majhe Kolkata,Yes,No,4.0/5,244,BTM,Quick Bites,"Radhaballavi, Biryani, Egg Noodles, Egg Roll, Fish Curry, Egg Devils, Thali","Bengali, North Indian",400,Delivery
+Dabba Gosht,Yes,No,3.4/5,9,JP Nagar,"Takeaway, Delivery",,"Arabian, Middle Eastern",400,Delivery
+Empire Restaurant,Yes,No,3.6/5,113,JP Nagar,"Takeaway, Delivery",,"Kerala, Seafood, South Indian, Chinese, North Indian, Charcoal Chicken, Beverages",400,Delivery
+Punjabites,Yes,No,3.7/5,5,JP Nagar,"Takeaway, Delivery",,"North Indian, Charcoal Chicken",400,Delivery
+Sri Lakshmi Dhaba,Yes,No,2.9/5,255,BTM,Quick Bites,"Paratha, Shahi Paneer",North Indian,250,Delivery
+XO Belgian Waffle,Yes,No,4.5/5,549,BTM,Dessert Parlor,"Blueberry Waffles, Nutella Waffle, Hot Chocolate, Thick Shakes, Coffee, Oreo Shake, Chocolate Oreo","Desserts, Beverages",400,Delivery
+Swadista Aahar,Yes,No,4.1/5,775,BTM,Quick Bites,"Panneer Butter Masala, Idli, Masala Dosa, Vada, Coffee, Roti, Thali","South Indian, North Indian, Chinese, Street Food",300,Delivery
+Vegetarea,Yes,No,3.9/5,38,BTM,"Takeaway, Delivery",,South Indian,250,Delivery
+Al-Bek,Yes,No,3.6/5,208,JP Nagar,"Takeaway, Delivery","Chicken Grill, Biryani","Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",300,Delivery
+Aniram's,Yes,No,4.1/5,739,JP Nagar,Delivery,"Chilli Chicken, Butter Chicken, Kadhai Paneer, Hyderabadi Chicken Biryani, Jeera Rice, Ghee Rice, Chicken Masala","Chinese, North Indian",500,Delivery
+Punjabi Nawabi,Yes,No,3.8/5,310,Bannerghatta Road,Quick Bites,"Dal Makhani, Lassi, Butter Chicken, Panneer Butter Masala, Mix Veg, Saag, Butter Naan",North Indian,400,Delivery
+YummRajj,Yes,No,3.3/5,42,BTM,Quick Bites,,Fast Food,500,Delivery
+Swad Punjab Da,Yes,No,4.0/5,126,BTM,Quick Bites,"Lassi, Roti, Veg Thali, Aloo Paratha, Egg Curry",North Indian,150,Delivery
+BOX8- Desi Meals,Yes,No,4.1/5,427,Bannerghatta Road,"Takeaway, Delivery","Paratha, Salads, Dal Makhani, Salad, Masala Lemonade, Paneer Biryani, Sandwiches","North Indian, Mughlai, Fast Food",500,Delivery
+Roti Wala,Yes,No,4.0/5,197,BTM,Quick Bites,"Gulab Jamun, Buttermilk, Egg Bhurji, Sprout Salad, Roti",North Indian,300,Delivery
+Midnight Mania,Yes,No,4.1/5,601,BTM,Quick Bites,"Peri Peri Chicken, Chicken Pizza, White Pasta, Kit Kat Shake","Pizza, Italian, Beverages",700,Delivery
+Kitchens@JP Nagar,Yes,No,3.9/5,488,JP Nagar,"Takeaway, Delivery",Vegetable Biryani,"Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",400,Delivery
+Krishna Kuteera,Yes,No,4.0/5,396,Bannerghatta Road,Quick Bites,"Pav Bhaji, Coffee, Set Dosa, Vada, Masala Poori","South Indian, North Indian, Chinese",400,Delivery
+Apna Punjab,Yes,No,3.6/5,474,BTM,Quick Bites,"Thali, Egg Masala, Chole, Paratha, Roti, Butter Chicken, Paneer Manchurian","North Indian, Chinese, Fast Food",450,Delivery
+Paratha Junction,Yes,No,2.9/5,172,BTM,Quick Bites,"Paratha, Kadai Paneer","North Indian, Chinese",300,Delivery
+Nellore Bhojanam,Yes,No,3.1/5,175,Bannerghatta Road,Quick Bites,Biryani,Andhra,250,Delivery
+Momoz,Yes,No,4.0/5,939,BTM,Casual Dining,"Momos, Noodles, Thukpa, Crispy Honey Chicken, Manchow Soup, Manchurian, Chicken Momo","Chinese, Momos",600,Delivery
+Kalingas,Yes,No,3.9/5,173,BTM,Quick Bites,"Rasgulla, Mutton Kosha, Chicken Kasha, Samosa Chaat, Kheer, Veg Thali","Oriya, Fast Food",250,Delivery
+Kanteen The Eatery,Yes,No,3.9/5,77,Bannerghatta Road,Quick Bites,"Chole Bhature, Pav Bhaji, Misal Pav",North Indian,400,Delivery
+Kullad Cafe,Yes,No,3.9/5,326,BTM,Cafe,"Poha, Coffee, Chai, Rolls, Ginger Tea, Aloo Paratha, Elaichi Tea","North Indian, Cafe, Fast Food, Beverages",200,Delivery
+Donne Biriyani House,Yes,No,3.3/5,212,JP Nagar,Quick Bites,"Biryani, Kshatriya Kebab","Biryani, Andhra",350,Delivery
+Litti Twist,Yes,No,4.1/5,464,BTM,Quick Bites,"Litti, Liti Chokha, Lassi, Tea, Paratha, Thali, Chai","North Indian, Bihari",300,Delivery
+FreshMenu,Yes,No,3.3/5,628,Bannerghatta Road,Delivery,"Rolls, Salads, Salad, Sandwiches, Pasta, Burgers, Croissants","Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",450,Delivery
+Shanthi Sagar,Yes,No,3.6/5,518,JP Nagar,Casual Dining,"Coffee, Mushroom Masala, Masala Dosa, Palak Paneer","South Indian, North Indian, Chinese",400,Delivery
+Cakebuy,Yes,No,3.9/5,70,Bannerghatta Road,Dessert Parlor,Chocolate Truffle,Desserts,350,Delivery
+Five Star Chicken,Yes,No,3.9/5,62,JP Nagar,Quick Bites,Fries,"Burger, Fast Food, Roast Chicken, Finger Food",300,Delivery
+Poha House,Yes,No,NEW,0,BTM,Quick Bites,,Maharashtrian,200,Delivery
+Bathinda Tandoor,Yes,No,NEW,0,BTM,Quick Bites,,North Indian,300,Delivery
+Corner House Ice Cream,Yes,No,4.4/5,819,Jayanagar,Dessert Parlor,"Hot Chocolate Fudge, Chocolate Malt, Thick Shakes, Chocolate Nut Sundae, Ice Cream Sundae, Fudge Cake, Coffee","Ice Cream, Desserts",400,Delivery
+Delight Food,Yes,No,2.6/5,171,BTM,Casual Dining,,"Andhra, Chinese, Biryani",450,Delivery
+Andhra Kitchen,Yes,No,3.9/5,158,Bannerghatta Road,"Takeaway, Delivery",,"Andhra, Biryani",400,Delivery
+Veg By Nature,Yes,No,3.4/5,14,JP Nagar,"Takeaway, Delivery",,North Indian,200,Delivery
+Fattoush,Yes,Yes,4.2/5,1964,Bannerghatta Road,Casual Dining,"Mango Chiller, Fattoush, Prawn, Salads, Vegetable Biryani, Irani Chicken Tikka, Chilli Chicken","Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood","1,000",Delivery
+Chicken Magic,Yes,No,3.7/5,207,BTM,Quick Bites,,"Chinese, North Indian",300,Delivery
+Behrouz Biryani,Yes,No,4.0/5,138,Bannerghatta Road,Delivery,"Gulab Jamun, Vegetable Biryani, Mint Raita",Biryani,650,Delivery
+Abhiruchi Hotel,Yes,No,3.3/5,455,Bannerghatta Road,Casual Dining,"Egg Biryani, Chicken Curry, Chicken Boneless Biryani, Chilli Chicken, Vegetable Biryani, Jeera Rice","Andhra, Biryani, North Indian, Chinese",550,Delivery
+Swathi Restaurant,Yes,No,3.9/5,14,JP Nagar,"Takeaway, Delivery",,"Andhra, North Indian, Chinese",400,Delivery
+Fresh Kitchen,Yes,No,3.4/5,13,Bannerghatta Road,Casual Dining,,"North Indian, Chinese",600,Delivery
+Hind Ka Chulah,Yes,No,3.8/5,181,Bannerghatta Road,Food Court,"Butter Chicken, Chole, Chicken Tikka, Biryani Combo, Roti, Tandoori Chicken, Naan","North Indian, Biryani",600,Delivery
+Kuttanad,Yes,No,3.6/5,140,Bannerghatta Road,Quick Bites,,"Kerala, South Indian",200,Delivery
+New Mahesh Friends Food Corner,Yes,No,3.2/5,44,BTM,Quick Bites,,"North Indian, Chinese",300,Delivery
+Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,3.6/5,43,JP Nagar,Quick Bites,"Fruit Custard, Russian Cutlet",Bohri,300,Delivery
+Pizza Hut,Yes,No,2.7/5,159,JP Nagar,Quick Bites,Prompt Service,Pizza,750,Delivery
+Shree Krishna Sannidhi,Yes,No,3.4/5,76,Bannerghatta Road,Quick Bites,,"North Indian, Chinese",450,Delivery
+BingeJoy!,Yes,No,3.6/5,16,JP Nagar,Kiosk,,"Biryani, Chinese, Fast Food",100,Delivery
+Shiv Sai Hotel,Yes,No,3.5/5,74,Bannerghatta Road,Quick Bites,,North Indian,400,Delivery
+MRA,Yes,No,3.9/5,20,BTM,"Takeaway, Delivery",,Bakery,200,Delivery
+Beijing Bites,Yes,No,3.7/5,9,JP Nagar,"Takeaway, Delivery",,"Chinese, Thai, Momos",400,Delivery
+A2B - Adyar Ananda Bhavan,Yes,No,4.1/5,51,JP Nagar,"Takeaway, Delivery",,"South Indian, North Indian, Chinese, Street Food",200,Delivery
+Burj Hotel,Yes,No,3.5/5,53,Bannerghatta Road,Quick Bites,,"North Indian, Chinese",350,Delivery
+Shaadi Ki Biryani,Yes,No,3.1/5,28,BTM,"Takeaway, Delivery",,"Biryani, North Indian, Mughlai",400,Delivery
+Subway,Yes,No,3.2/5,166,Bannerghatta Road,Quick Bites,Salad,"Salad, Fast Food",600,Delivery
+Madeena Hotel,Yes,No,3.9/5,50,Bannerghatta Road,Quick Bites,,"North Indian, Mughlai, Biryani",400,Delivery
+Biryani Durbar,Yes,No,3.7/5,128,Bannerghatta Road,"Takeaway, Delivery","Chicken Biryani, Chicken Kebab","Biryani, North Indian",400,Delivery
+Adyar Ananda Bhavan Sweets,Yes,No,,0,JP Nagar,"Takeaway, Delivery",,"Mithai, Desserts",200,Delivery
+The Good Bowl,Yes,No,3.6/5,8,Bannerghatta Road,"Takeaway, Delivery",,"Italian, North Indian, Biryani",500,Delivery
+Mahesh Friends Food Center,Yes,No,2.9/5,126,BTM,Quick Bites,Lassi,"Chinese, North Indian",300,Delivery
+Juice Shop,Yes,No,3.4/5,24,JP Nagar,"Takeaway, Delivery",,"Juices, Beverages, Ice Cream",150,Delivery
+Kabab Magic,Yes,No,4.0/5,952,Jayanagar,Quick Bites,"Chicken Grill, Biryani, Shawarma Roll, Rolls, Chicken Kebab, Chicken Shwarma Roll, Pulpy Grape Juice","North Indian, Kebab, Chinese, Fast Food",400,Delivery
+Nammura Donne Biriyani,Yes,No,3.4/5,51,Kanakapura Road,Quick Bites,,"Biryani, Fast Food",400,Delivery
+Burger King,Yes,No,3.8/5,472,Bannerghatta Road,Quick Bites,"Burgers, Whopper Meal, Crispy Chicken, French Fries, Grilled Wings","Burger, Fast Food, Beverages",600,Delivery
+Dadi's Dum Biryani,Yes,Yes,4.0/5,739,Bannerghatta Road,Casual Dining,"Chicken Biryani, Basmati Rice, Prawn, Tandoori Chicken, Vegetable Biryani, Galauti Kebab, Faluda","Biryani, North Indian, Mughlai",800,Delivery
+Krishna Kuteera South,Yes,No,4.0/5,117,Bannerghatta Road,Casual Dining,,"South Indian, North Indian, Chinese",500,Delivery
+Alankrutha,Yes,No,3.9/5,255,BTM,Casual Dining,"Chicken Biryani, Hyderabadi Biryani, Dum Biryani","Andhra, Biryani, North Indian, Chinese",500,Delivery
+Paradise,Yes,No,4.0/5,1974,JP Nagar,Casual Dining,"Kalmi Kabab, Hyderabadi Dum Biryani, Vegetable Biryani, Haleem, Supreme Mutton Biryani, Paneer Tikka, Hyderabadi Mutton Biryani","Biryani, North Indian, Kebab",800,Delivery
+Kabab Mehal,Yes,No,3.7/5,65,JP Nagar,Quick Bites,,"Kebab, North Indian, Fast Food, Beverages",400,Delivery
+Mughlai Kitchen,Yes,No,3.5/5,269,BTM,,"Momos, Oreo Shake","Mughlai, North Indian, Chinese, Momos",600,Delivery
+Andhra Ruchulu,Yes,Yes,4.2/5,1428,JP Nagar,Casual Dining,"Paneer Tikka, Bhuna Gosht, Andhra Meal, Chicken Biryani, Chicken Guntur, Chicken Sholey Kebab, Andhra Biryani","Andhra, North Indian",800,Delivery
+Sri Punjabi Dhaba,Yes,No,3.3/5,39,BTM,Dhaba,,North Indian,400,Delivery
+Arabian Mexico,Yes,No,3.4/5,43,Bannerghatta Road,Quick Bites,,"Fast Food, Arabian",400,Delivery
+CakeZone,Yes,No,3.7/5,13,JP Nagar,"Takeaway, Delivery",,"Bakery, Desserts",200,Delivery
+Fujian Express,Yes,No,3.6/5,34,JP Nagar,Quick Bites,,"Chinese, Thai",200,Delivery
+Indian Food,Yes,No,2.9/5,345,BTM,"Takeaway, Delivery",,"North Indian, Biryani, Chinese, Momos",450,Delivery
+Tandoori Paradise,Yes,No,3.5/5,8,BTM,Delivery,,"North Indian, Chinese",600,Delivery
+Kolkata Kathi Rolls,Yes,No,3.8/5,23,JP Nagar,Quick Bites,,Rolls,150,Delivery
+Adithya,Yes,No,4.0/5,332,JP Nagar,Quick Bites,"Neer Dosa, Coffee, Pav Bhaji, Khali Dosa, Panipuri, Masala Dosa, Tea","South Indian, North Indian, Chinese",300,Delivery
+Cheesiano Pizza,Yes,Yes,4.0/5,199,JP Nagar,Quick Bites,"Pasta, Fries, Cheesiano Pizza, Veggie Pizza, Cheesy Garlic Bread, Peri Peri Paneer Pizza","Pizza, Italian",700,Delivery
+Polar Bear,Yes,No,3.9/5,20,BTM,"Takeaway, Delivery",,"Desserts, Ice Cream",300,Delivery
+Le Arabia,Yes,No,NEW,0,JP Nagar,Casual Dining,Chicken Biryani,"North Indian, Mughlai",600,Delivery
+Nati Palace,Yes,No,3.5/5,11,JP Nagar,Quick Bites,,"South Indian, North Indian",200,Delivery
+KFC,Yes,No,3.9/5,437,JP Nagar,Quick Bites,"Burgers, Wings, Fries, Rice Bowl, Popcorn Chicken, Zinger Burger, Chicken Snacker","Burger, Fast Food",400,Delivery
+Dande's Hyderabad Biryani,Yes,No,3.8/5,207,Bannerghatta Road,Casual Dining,"Chicken Boneless Biryani, Lemon Chicken, Dum Biryani","Biryani, Andhra, North Indian",700,Delivery
+Onesta,Yes,Yes,4.4/5,4381,JP Nagar,"Casual Dining, Cafe","Chicken Alfredo Pizza, Coffee Mousse, Chicken Calzone, Banana Smoothie, Butter Chicken Pizza, Chocolate Pizza, Chicken Tikka Pizza","Pizza, Cafe, Italian",600,Delivery
+Upahara Bhavan,Yes,No,3.8/5,55,Bannerghatta Road,Quick Bites,"Masala Dosa, Idli, Coffee, Vada, Set Dosa","South Indian, North Indian, Chinese",300,Delivery
+Sher-E-Punjab,Yes,No,3.2/5,19,BTM,Quick Bites,,"North Indian, Chinese",400,Delivery
+Shuddh Desi Khana,Yes,No,4.0/5,597,Bannerghatta Road,Quick Bites,"Paratha, Chicken Kebab, Biryani, Lassi, Butter Chicken, Veg Kolhapuri, Pahari Chicken",North Indian,400,Delivery
+Karama Restaurant,Yes,No,3.5/5,16,JP Nagar,"Takeaway, Delivery",,Arabian,400,Delivery
+Jaganath Hotel and Restaurant,Yes,No,3.6/5,35,JP Nagar,Quick Bites,,"North Indian, Chinese",200,Delivery
+Five Star Chicken,Yes,No,3.5/5,9,Bannerghatta Road,Quick Bites,,"Fast Food, Beverages",250,Delivery
+Sankranthi Veg Restaurant,Yes,No,3.0/5,102,BTM,Casual Dining,"Tea, Vada Sambar, Masala Dosa","South Indian, North Indian, Chinese",600,Delivery
+Aramane Donne Biriyani,Yes,No,3.9/5,189,BTM,Quick Bites,"Egg Biryani, Donne Biryani","Biryani, Fast Food",300,Delivery
+Cafe Potpourri,Yes,No,3.7/5,131,JP Nagar,Cafe,"Poha, Coffee, Pav Bhaji, Masala Chai, Sattu Paratha, Sandwich","Cafe, Sandwich, North Indian, Beverages, Desserts",400,Delivery
+Mani's Dum Biryani,Yes,No,4.2/5,373,JP Nagar,Casual Dining,"Paneer Biryani, Raita, Gulab Jamun, Vegetable Biryani, Dum Biryani, Chicken Boneless Biryani, Chicken Kebab Biryani","Biryani, Kebab",750,Delivery
+Amontron,Yes,No,3.9/5,435,BTM,Casual Dining,"Katla Kalia, Basanti Pulao, Biryani, Aloo Posto, Mutton Kosha, Ilish, Mutton Dak Bunglow",Bengali,650,Delivery
+A M Biryani Hotel,Yes,No,3.3/5,6,Bannerghatta Road,Quick Bites,,"North Indian, Chinese, Biryani, Fast Food",300,Delivery
+Birinz,Yes,No,4.1/5,292,BTM,Casual Dining,"Chicken Boneless Biryani, Hyderabadi Biryani, Egg Chilli, Tomato Soup, Mutton Biryani, Butter Chicken Biryani, Paneer Biryani","Biryani, Chinese, Mughlai, Fast Food, Kebab",700,Delivery
+Just Shawarma,Yes,No,3.6/5,137,Bannerghatta Road,Quick Bites,"Fries, Whole Meat Shawarma",Arabian,300,Delivery
+Hyderabadi Bawarchi,Yes,No,3.2/5,133,Bannerghatta Road,Casual Dining,"Raita, Vegetable Biryani, Hyderabadi Biryani, Chicken Curry, Chicken Biryani","North Indian, Chinese, Biryani",500,Delivery
+Fish Chain,Yes,No,3.9/5,37,JP Nagar,"Takeaway, Delivery",Fish Curry,"Seafood, BBQ, Biryani",250,Delivery
+Prasiddhi Food Corner,Yes,No,3.7/5,170,JP Nagar,Quick Bites,Coffee,"Fast Food, North Indian, South Indian",200,Delivery
+Biriyani Bhatti,Yes,No,3.7/5,21,BTM,Quick Bites,,"Chinese, Hyderabadi, North Indian",400,Delivery
+Hyderabad Biryaani House,Yes,No,3.6/5,794,Bannerghatta Road,Casual Dining,"Hyderabadi Biryani, Chicken Biryani, Raita, Mutton Biryani, Vegetable Biryani, Butter Chicken, Basmati Rice","Biryani, North Indian, Chinese",550,Delivery
