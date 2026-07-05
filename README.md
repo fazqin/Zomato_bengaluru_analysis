@@ -206,7 +206,7 @@ python --version
 
 ### Clone Repository
 ```bash
-git clone https://github.com/[username]/zomato-bengaluru-analysis.git
+git clone https://github.com/fazqin/zomato-bengaluru-analysis.git
 cd zomato-bengaluru-analysis
 ```
 
@@ -359,23 +359,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Dataset:** [Zomato Bangalore Restaurants](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) from Kaggle
 - **Inspiration:** Real-world challenges faced by restaurant entrepreneurs in Bengaluru
 - **Libraries:** Thanks to the amazing open-source community for scikit-learn, pandas, and matplotlib
-
----
-
-##  Citation
-
-Jika Anda menggunakan project ini dalam penelitian atau publikasi, mohon cite sebagai:
-
-```bibtex
-@misc{zomato_bengaluru_analysis,
-  author = {[Your Name]},
-  title = {Zomato Bengaluru Restaurant Analysis & Success Prediction},
-  year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/[username]/zomato-bengaluru-analysis}
-}
-```
-
 ---
 
 <div align="center">
