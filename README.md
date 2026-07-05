@@ -1,4 +1,4 @@
-# 🍽️ Zomato Bengaluru Restaurant Analysis & Success Prediction
+#  Zomato Bengaluru Restaurant Analysis & Success Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Daftar Isi
+##  Daftar Isi
 
 - [Ringkasan Proyek](#-ringkasan-proyek)
 - [Problem Statement](#-problem-statement)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Ringkasan Proyek
+##  Ringkasan Proyek
 
 Proyek ini menganalisis **51.000+ data restoran** dari platform Zomato di kota Bengaluru, India, untuk membantu **calon entrepreneur** membuat keputusan bisnis berbasis data. Analisis mencakup:
 
@@ -40,7 +40,7 @@ Proyek ini menganalisis **51.000+ data restoran** dari platform Zomato di kota B
 
 ---
 
-## 🎓 Problem Statement
+##  Problem Statement
 
 **Tantangan Bisnis:**
 Membuka restoran baru di Bengaluru adalah investasi berisiko tinggi dengan tingkat kegagalan yang signifikan. Calon pemilik restoran menghadapi ketidakpastian dalam:
@@ -56,7 +56,7 @@ Membangun **decision support system berbasis data** yang memprediksi probabilita
 
 ---
 
-## 🔬 Metodologi
+##  Metodologi
 
 ### 1. Data Loading & Cleaning
 - **Dataset:** 51.000+ baris data restoran dari Zomato Bengaluru
@@ -125,7 +125,7 @@ high_performer = (rating >= 4.0) & (votes >= 500)
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 ### 1. Model Performance
 > **Random Forest mencapai ROC-AUC 0.9996** — model dapat memprediksi kesuksesan restoran dengan akurasi sangat tinggi berdasarkan fitur bisnis yang tersedia sejak awal.
@@ -164,7 +164,7 @@ high_performer = (rating >= 4.0) & (votes >= 500)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming & Data Science
 - **Python 3.8+**
@@ -196,7 +196,7 @@ high_performer = (rating >= 4.0) & (votes >= 500)
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -227,7 +227,7 @@ jupyter notebook Zomato_Final.ipynb
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 zomato-bengaluru-analysis/
@@ -243,7 +243,7 @@ zomato-bengaluru-analysis/
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 ### Random Forest (Best Model)
 
@@ -278,11 +278,11 @@ Actual  Non-HP     7050      8
 
 ---
 
-## 💼 Business Insights
+##  Business Insights
 
 ### Strategic Recommendations
 
-#### 📌 Skenario 1: Budget Terbatas (Modal < Rp 50 juta)
+####  Skenario 1: Budget Terbatas (Modal < Rp 50 juta)
 **Rekomendasi:**
 - ✅ Lokasi: **Mass Market** (BTM, Whitefield, Marathahalli) — sewa murah
 - ✅ Konsep: **Quick Bites** (Rp 200-400 untuk 2 orang)
@@ -290,7 +290,7 @@ Actual  Non-HP     7050      8
 - ✅ Prioritas: **Online Order** sejak hari pertama
 - ❌ **JANGAN:** Coba masuk area premium — barrier to entry terlalu tinggi
 
-#### 📌 Skenario 2: Modal Menengah (Rp 50-150 juta)
+####  Skenario 2: Modal Menengah (Rp 50-150 juta)
 **Rekomendasi:**
 - ✅ Lokasi: **Premium Mid-Market** (Koramangala 5th Block, HSR, Jayanagar)
 - ✅ Konsep: **Cafe** atau **Casual Dining** dengan twist unik
@@ -299,7 +299,7 @@ Actual  Non-HP     7050      8
 - ✅ Masakan: Eksperimen **fusion** atau niche (Mexican, Continental)
 - ✅ Investment: Interior design & Instagram-worthy ambience
 
-#### 📌 Skenario 3: Modal Besar (Rp 150 juta+)
+####  Skenario 3: Modal Besar (Rp 150 juta+)
 **Rekomendasi:**
 - ✅ Lokasi: **Premium Enclave** (Lavelle Road, MG Road)
 - ✅ Konsep: **Fine Dining** atau **Lounge** dengan exceptional service
@@ -310,15 +310,15 @@ Actual  Non-HP     7050      8
 
 ### Key Takeaways untuk Entrepreneur
 
-1. 🎯 **Lokasi adalah segalanya** — riset mendalam sebelum commit
-2. 💰 **Harga harus match dengan value proposition**, bukan asal mahal
-3. 📱 **Book Table > Online Order** untuk meningkatkan popularitas
-4. 🏪 **Waralaba memiliki advantage**, independen harus punya diferensiasi kuat
-5. 🍽️ **Type & Cuisine** harus aligned dengan target market lokasi
+1.  **Lokasi adalah segalanya** — riset mendalam sebelum commit
+2.  **Harga harus match dengan value proposition**, bukan asal mahal
+3.  **Book Table > Online Order** untuk meningkatkan popularitas
+4.  **Waralaba memiliki advantage**, independen harus punya diferensiasi kuat
+5.  **Type & Cuisine** harus aligned dengan target market lokasi
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 ### Model Enhancements
 - [ ] **Hyperparameter Tuning** — GridSearchCV untuk optimize Random Forest & XGBoost
@@ -348,23 +348,13 @@ Actual  Non-HP     7050      8
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Dataset:** [Zomato Bangalore Restaurants](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) from Kaggle
 - **Inspiration:** Real-world challenges faced by restaurant entrepreneurs in Bengaluru
@@ -372,7 +362,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📌 Citation
+##  Citation
 
 Jika Anda menggunakan project ini dalam penelitian atau publikasi, mohon cite sebagai:
 
@@ -390,8 +380,8 @@ Jika Anda menggunakan project ini dalam penelitian atau publikasi, mohon cite se
 
 <div align="center">
 
-**⭐ Star this repo jika bermanfaat!**
+** Star this repo jika bermanfaat!**
 
-Made with ❤️ and ☕ using Python & Jupyter
+Made with and using Python & Jupyter
 
 </div>
