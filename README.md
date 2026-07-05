@@ -21,11 +21,10 @@
 - [Model Performance](#-model-performance)
 - [Business Insights](#-business-insights)
 - [Future Improvements](#-future-improvements)
-- [Author](#-author)
 
 ---
 
-##  Ringkasan Proyek
+## Ringkasan Proyek
 
 Proyek ini menganalisis **51.000+ data restoran** dari platform Zomato di kota Bengaluru, India, untuk membantu **calon entrepreneur** membuat keputusan bisnis berbasis data. Analisis mencakup:
 
@@ -39,7 +38,7 @@ Proyek ini menganalisis **51.000+ data restoran** dari platform Zomato di kota B
 
 ---
 
-##  Problem Statement
+## Problem Statement
 
 **Tantangan Bisnis:**
 Membuka restoran baru di Bengaluru adalah investasi berisiko tinggi dengan tingkat kegagalan yang signifikan. Calon pemilik restoran menghadapi ketidakpastian dalam:
@@ -55,7 +54,7 @@ Membangun **decision support system berbasis data** yang memprediksi probabilita
 
 ---
 
-##  Metodologi
+## Metodologi
 
 ### 1. Data Loading & Cleaning
 - **Dataset:** 51.000+ baris data restoran dari Zomato Bengaluru
@@ -124,7 +123,7 @@ high_performer = (rating >= 4.0) & (votes >= 500)
 
 ---
 
-##  Key Findings
+## Key Findings
 
 ### 1. Model Performance
 > **Random Forest mencapai ROC-AUC 0.9996** — model dapat memprediksi kesuksesan restoran dengan akurasi sangat tinggi berdasarkan fitur bisnis yang tersedia sejak awal.
@@ -163,7 +162,7 @@ high_performer = (rating >= 4.0) & (votes >= 500)
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Programming & Data Science
 - **Python 3.8+**
@@ -195,7 +194,7 @@ high_performer = (rating >= 4.0) & (votes >= 500)
 
 ---
 
-##  Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -226,7 +225,7 @@ jupyter notebook Zomato_Final.ipynb
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```
 zomato-bengaluru-analysis/
@@ -242,7 +241,7 @@ zomato-bengaluru-analysis/
 
 ---
 
-##  Model Performance
+## Model Performance
 
 ### Random Forest (Best Model)
 
@@ -277,7 +276,7 @@ Actual  Non-HP     7050      8
 
 ---
 
-##  Business Insights
+## Business Insights
 
 ### Strategic Recommendations
 
@@ -317,7 +316,7 @@ Actual  Non-HP     7050      8
 
 ---
 
-##  Future Improvements
+## Future Improvements
 
 ### Model Enhancements
 - [ ] **Hyperparameter Tuning** — GridSearchCV untuk optimize Random Forest & XGBoost
@@ -347,7 +346,7 @@ Actual  Non-HP     7050      8
 
 ---
 
-##  Acknowledgments
+## Acknowledgments
 
 - **Dataset:** [Zomato Bangalore Restaurants](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) from Kaggle
 - **Inspiration:** Real-world challenges faced by restaurant entrepreneurs in Bengaluru
