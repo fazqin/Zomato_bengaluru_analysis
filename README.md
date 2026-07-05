@@ -22,7 +22,6 @@
 - [Business Insights](#-business-insights)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
-- [License](#-license)
 
 ---
 
@@ -206,8 +205,8 @@ python --version
 
 ### Clone Repository
 ```bash
-git clone https://github.com/fazqin/zomato-bengaluru-analysis.git
-cd zomato-bengaluru-analysis
+git clone https://github.com/fazqin/Zomato_bengaluru_analysis.git
+cd zomato_bengaluru_analysis
 ```
 
 ### Install Dependencies
@@ -345,12 +344,6 @@ Actual  Non-HP     7050      8
 - [ ] **Unit Tests** — `pytest` untuk critical functions
 - [ ] **CI/CD Pipeline** — Automated testing & deployment
 - [ ] **Documentation** — Docstrings, type hints, API docs
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
